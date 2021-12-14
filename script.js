@@ -1,5 +1,6 @@
 $.getJSON("blogs.json", function (data) {
   let randomBlog = data[Math.ceil(Math.random() * data.length) - 1]; // get each JSON object
+  // console.log(Math.ceil(Math.random() * data.length));
   document.getElementById("content").innerText = randomBlog.name;
   document.getElementById("content").href =
     "https://www.yidajiabei.xyz/blog/" + randomBlog.link;
