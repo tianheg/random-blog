@@ -1,5 +1,25 @@
 [
   {
+    "name": "2021 年 12 月上旬总结",
+    "link": "2021/2021-dec-up-summary.html"
+  },
+  {
+    "name": "第一次视频面试——专注前端",
+    "link": "2021/first-interview.html"
+  },
+  {
+    "name": "使用 JSMin 压缩 JavaScript",
+    "link": "2021/js-jsmin.html"
+  },
+  {
+    "name": "C 语言中 printf 与 puts 的区别",
+    "link": "2021/c-printf-puts.html"
+  },
+  {
+    "name": "LC17. 电话号码的字母组合",
+    "link": "2021/lc-17-letter-combinations-of-a-phone-number.html"
+  },
+  {
     "name": "随机展示写过的博客",
     "link": "2021/random-blog.html"
   },
@@ -36,7 +56,7 @@
     "link": "2021/meta-search.html"
   },
   {
-    "name": "张潇雨的50条人生准则",
+    "name": "张潇雨的 50 条人生准则",
     "link": "2021/zhang-xiao-yu.html"
   },
   {
@@ -64,15 +84,15 @@
     "link": "2021/org-mode-macro.html"
   },
   {
-    "name": "郝斌C语言学习：概述、预备知识",
+    "name": "郝斌 C 语言学习：概述、预备知识",
     "link": "2021/haobin-c-0.html"
   },
   {
-    "name": "我什么也没干，只是在好好活着 | 和抑郁情绪共处的315天",
+    "name": "我什么也没干，只是在好好活着 | 和抑郁情绪共处的 315 天",
     "link": "2021/stay-alive.html"
   },
   {
-    "name": "练习《HTML5权威指南》",
+    "name": "练习《HTML5 权威指南》",
     "link": "2021/definitive-guide-to-html5.html"
   },
   {
@@ -100,7 +120,7 @@
     "link": "2021/sky-cloud.html"
   },
   {
-    "name": "白蛇2：青蛇劫起",
+    "name": "白蛇 2：青蛇劫起",
     "link": "2021/white-snake2.html"
   },
   {
@@ -144,7 +164,7 @@
     "link": "2021/graduation-thesis.html"
   },
   {
-    "name": "2021年11月下旬总结",
+    "name": "2021 年 11 月下旬总结",
     "link": "2021/2021-nov-down-summary.html"
   },
   {
@@ -240,7 +260,7 @@
     "link": "2021/emacs-howto-custom-theme.html"
   },
   {
-    "name": "PJWD4(JS高级程序设计第4版)C7 迭代器与生成器",
+    "name": "PJWD4(JS 高级程序设计第 4 版)C7 迭代器与生成器",
     "link": "2021/pjwd4-iterators-generators.html"
   },
   {
@@ -252,7 +272,7 @@
     "link": "2021/arch-system-freeze-after-connecting-wifi.html"
   },
   {
-    "name": "学习SEM（基于搜索引擎平台的网络营销）",
+    "name": "学习 SEM（基于搜索引擎平台的网络营销）",
     "link": "2021/learn-sem.html"
   },
   {
@@ -268,7 +288,7 @@
     "link": "2021/understand-problem-from-multi-level.html"
   },
   {
-    "name": "海天霞、#f3a694以及日常语言的囚笼：你要如何进入这个世界？",
+    "name": "海天霞、#f3a694 以及日常语言的囚笼：你要如何进入这个世界？",
     "link": "2021/traditional-chinese-colors.html"
   },
   {
@@ -276,7 +296,7 @@
     "link": "2021/lc-96-unique-binary-search-trees.html"
   },
   {
-    "name": "2021年11月上旬总结",
+    "name": "2021 年 11 月上旬总结",
     "link": "2021/2021-nov-up-summary.html"
   },
   {
@@ -288,7 +308,7 @@
     "link": "2021/nginx-80-http2.html"
   },
   {
-    "name": "2021年10月下旬总结",
+    "name": "2021 年 10 月下旬总结",
     "link": "2021/2021-oct-down-summary.html"
   },
   {
@@ -324,7 +344,7 @@
     "link": "2021/nginx-repeat-config.html"
   },
   {
-    "name": "LC122. 买卖股票的最佳时机II",
+    "name": "LC122. 买卖股票的最佳时机 II",
     "link": "2021/lc-122-best-time-to-buy-and-sell-stock-ii.html"
   },
   {
@@ -344,7 +364,7 @@
     "link": "2021/lc-1-two-sum.html"
   },
   {
-    "name": "2021年10月上旬总结",
+    "name": "2021 年 10 月上旬总结",
     "link": "2021/2021-oct-up-summary.html"
   },
   {
@@ -356,7 +376,7 @@
     "link": "2021/git-server-hook.html"
   },
   {
-    "name": "2021年9月下旬总结",
+    "name": "2021 年 9 月下旬总结",
     "link": "2021/2021-sept-down-summary.html"
   },
   {
