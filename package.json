@@ -1,4 +1,5 @@
 {
+  "license": "",
   "dependencies": {
     "axios": "^0.24.0",
     "cheerio": "^1.0.0-rc.10"
