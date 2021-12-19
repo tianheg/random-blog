@@ -304,6 +304,10 @@
     "link": "2021/traditional-chinese-colors.html"
   },
   {
+    "name": "麻辣拌",
+    "link": "2021/spicy-mix.html"
+  },
+  {
     "name": "LC96. 不同的二叉搜索树",
     "link": "2021/lc-96-unique-binary-search-trees.html"
   },
@@ -314,6 +318,10 @@
   {
     "name": "LC20. 有效的括号",
     "link": "2021/lc-20-valid-parentheses.html"
+  },
+  {
+    "name": "雪临有感",
+    "link": "2021/feelings-with-snow-2021.html"
   },
   {
     "name": "Nginx 中在 80 端口添加 HTTP/2 出现问题",
@@ -456,12 +464,24 @@
     "link": "2021/2021-29.html"
   },
   {
+    "name": "醉步男",
+    "link": "2021/the-drunken-man.html"
+  },
+  {
     "name": "2021 年第 28 周总结",
     "link": "2021/2021-28.html"
   },
   {
+    "name": "闪灵 Shining",
+    "link": "2021/shining.html"
+  },
+  {
     "name": "2021 年第 27 周总结",
     "link": "2021/2021-27.html"
+  },
+  {
+    "name": "SICP1: 用过程构建抽象",
+    "link": "2021/sicp-1.html"
   },
   {
     "name": "2021 年第 26 周总结",
@@ -470,6 +490,10 @@
   {
     "name": "2021 年第 25 周总结",
     "link": "2021/2021-25.html"
+  },
+  {
+    "name": "阿波罗 11 号",
+    "link": "2021/apollo-11.html"
   },
   {
     "name": "2021 年第 24 周总结",
@@ -496,8 +520,20 @@
     "link": "2021/2021-20.html"
   },
   {
+    "name": "了解糖尿病",
+    "link": "2021/diabetes.html"
+  },
+  {
+    "name": "师说",
+    "link": "2021/hanyu-shishuo.html"
+  },
+  {
     "name": "2021-19",
     "link": "2021/2021-19.html"
+  },
+  {
+    "name": "黄花与夕阳",
+    "link": "2021/yellow-flower-and-sunset.html"
   },
   {
     "name": "Don't Be A Programmer, Be A Problem Solver",
@@ -510,6 +546,10 @@
   {
     "name": "出游记",
     "link": "2021/chu-you-ji.html"
+  },
+  {
+    "name": "闹海",
+    "link": "2021/naohai.html"
   },
   {
     "name": "道德经",
@@ -906,5 +946,9 @@
   {
     "name": "死亡是一件不必急于求成的事",
     "link": "2019/death-is-matter-of-not-rushing-for.html"
+  },
+  {
+    "name": "雪临有感",
+    "link": "2018/feelings-with-snow.html"
   }
 ]
