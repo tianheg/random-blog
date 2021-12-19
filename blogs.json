@@ -1,5 +1,17 @@
 [
   {
+    "name": "Vue1 应用和组件实例",
+    "link": "2021/vue-1-instance.html"
+  },
+  {
+    "name": "Unicode Segmentation in JavaScript",
+    "link": "2021/unicode-segmentation-in-javascript.html"
+  },
+  {
+    "name": "域名邮箱",
+    "link": "2021/domain-email.html"
+  },
+  {
     "name": "2021 年 12 月上旬总结",
     "link": "2021/2021-dec-up-summary.html"
   },
