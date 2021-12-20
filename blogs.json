@@ -1,5 +1,17 @@
 [
   {
+    "name": "解决 Windows 下中文文件在 Linux 中读取乱码的问题",
+    "link": "2021/solve-garbled-problem.html"
+  },
+  {
+    "name": "深入了解现代浏览器（一）",
+    "link": "2021/inside-browser-part1.html"
+  },
+  {
+    "name": "爱因斯坦自述",
+    "link": "2021/einstein-himself.html"
+  },
+  {
     "name": "Vue1 应用和组件实例",
     "link": "2021/vue-1-instance.html"
   },
