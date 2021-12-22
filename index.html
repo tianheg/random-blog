@@ -1,22 +1,29 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="UTF-8" />
-    <title>随机文章</title>
-    <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <link href="style.css" rel="stylesheet" />
-    <script
-      src="https://code.jquery.com/jquery-3.6.0.min.js"
-      integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
-      crossorigin="anonymous"
-    ></script>
-  </head>
 
-  <body>
-    <div>
-      <a id="content" style="text-decoration: none" rel="noopener noreferrer"></a>
-      <button id="bt_new">NEXT</button>
+<head>
+  <meta charset="UTF-8" />
+  <title>随机文章</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+  <link href="style.css" rel="stylesheet" />
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+    integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+</head>
+
+<body>
+  <div class="row">
+    <div class="column">
+      <p>博客文章</p>
+      <a id="blogs" rel="noreferrer"></a>
     </div>
-    <script src="script.js"></script>
-  </body>
+    <div class="column">
+      <p>读过的文章</p>
+      <a id="feeds" rel="noreferrer"></a>
+    </div>
+  </div>
+  <button id="btn">下一篇</button>
+  <script src="script.js"></script>
+</body>
+
 </html>
