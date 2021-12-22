@@ -1,481 +1,498 @@
 [
   {
-    "name": "解决 Windows 下中文文件在 Linux 中读取乱码的问题",
+    "title": "解决 Windows 下中文文件在 Linux 中读取乱码的问题",
     "link": "2021/solve-garbled-problem.html"
   },
   {
-    "name": "深入了解现代浏览器（一）",
+    "title": "深入了解现代浏览器（一）",
     "link": "2021/inside-browser-part1.html"
   },
   {
-    "name": "爱因斯坦自述",
+    "title": "爱因斯坦自述",
     "link": "2021/einstein-himself.html"
   },
   {
-    "name": "Vue1 应用和组件实例",
+    "title": "Vue1 应用和组件实例",
     "link": "2021/vue-1-instance.html"
   },
   {
-    "name": "Unicode Segmentation in JavaScript",
+    "title": "Unicode Segmentation in JavaScript",
     "link": "2021/unicode-segmentation-in-javascript.html"
   },
   {
-    "name": "域名邮箱",
+    "title": "域名邮箱",
     "link": "2021/domain-email.html"
   },
   {
-    "name": "2021 年 12 月上旬总结",
+    "title": "2021 年 12 月上旬总结",
     "link": "2021/2021-dec-up-summary.html"
   },
   {
-    "name": "第一次视频面试——专注前端",
+    "title": "第一次视频面试——专注前端",
     "link": "2021/first-interview.html"
   },
   {
-    "name": "使用 JSMin 压缩 JavaScript",
+    "title": "使用 JSMin 压缩 JavaScript",
     "link": "2021/js-jsmin.html"
   },
   {
-    "name": "C 语言中 printf 与 puts 的区别",
+    "title": "C 语言中 printf 与 puts 的区别",
     "link": "2021/c-printf-puts.html"
   },
   {
-    "name": "LC17. 电话号码的字母组合",
+    "title": "LC17. 电话号码的字母组合",
     "link": "2021/lc-17-letter-combinations-of-a-phone-number.html"
   },
   {
-    "name": "随机展示写过的博客",
+    "title": "随机展示写过的博客",
     "link": "2021/random-blog.html"
   },
   {
-    "name": "脱单指南",
+    "title": "脱单指南",
     "link": "2021/get-rid-of-single.html"
   },
   {
-    "name": "如何处理沟通过程中的情绪爆发",
+    "title": "如何处理沟通过程中的情绪爆发",
     "link": "2021/emotional-communication.html"
   },
   {
-    "name": "同源策略",
+    "title": "同源策略",
     "link": "2021/same-origin-policy.html"
   },
   {
-    "name": "如何写作科技文档",
+    "title": "如何写作科技文档",
     "link": "2021/write-tech-doc.html"
   },
   {
-    "name": "牧羊少年奇幻之旅",
+    "title": "牧羊少年奇幻之旅",
     "link": "2021/o-alquimista.html"
   },
   {
-    "name": "极简个性心理学",
+    "title": "极简个性心理学",
     "link": "2021/making-sence-of-people.html"
   },
   {
-    "name": "Git Add Files to A Commit Except A Single File",
+    "title": "Git Add Files to A Commit Except A Single File",
     "link": "2021/git-add-files-to-commit-except-file.html"
   },
   {
-    "name": "建立元搜索引擎",
+    "title": "建立元搜索引擎",
     "link": "2021/meta-search.html"
   },
   {
-    "name": "张潇雨的 50 条人生准则",
+    "title": "张潇雨的 50 条人生准则",
     "link": "2021/zhang-xiao-yu.html"
   },
   {
-    "name": "如何真正理解一个新概念",
+    "title": "如何真正理解一个新概念",
     "link": "2021/grasp-a-concept.html"
   },
   {
-    "name": "隔代的隔阂",
+    "title": "隔代的隔阂",
     "link": "2021/generational-barrier.html"
   },
   {
-    "name": "爱自己",
+    "title": "爱自己",
     "link": "2021/love-myself.html"
   },
   {
-    "name": "BIOS 因何而存在",
+    "title": "BIOS 因何而存在",
     "link": "2021/why-bios.html"
   },
   {
-    "name": "用 Puppeteer 下载网页 pdf 版本",
+    "title": "用 Puppeteer 下载网页 pdf 版本",
     "link": "2021/play-puppeteer.html"
   },
   {
-    "name": "使用 Org-mode 为文本添加高亮",
+    "title": "使用 Org-mode 为文本添加高亮",
     "link": "2021/org-mode-macro.html"
   },
   {
-    "name": "郝斌 C 语言学习：概述、预备知识",
+    "title": "郝斌 C 语言学习：概述、预备知识",
     "link": "2021/haobin-c-0.html"
   },
   {
-    "name": "我什么也没干，只是在好好活着 | 和抑郁情绪共处的 315 天",
+    "title": "我什么也没干，只是在好好活着 | 和抑郁情绪共处的 315 天",
     "link": "2021/stay-alive.html"
   },
   {
-    "name": "练习《HTML5 权威指南》",
+    "title": "练习《HTML5 权威指南》",
     "link": "2021/definitive-guide-to-html5.html"
   },
   {
-    "name": "使用 Org Mode 写博客",
+    "title": "使用 Org Mode 写博客",
     "link": "2021/org-mode-blog.html"
   },
   {
-    "name": "疾病",
+    "title": "疾病",
     "link": "2021/illness.html"
   },
   {
-    "name": "爱护「眼睛」",
+    "title": "爱护「眼睛」",
     "link": "2021/eyes.html"
   },
   {
-    "name": "正确食用「糖」",
+    "title": "正确食用「糖」",
     "link": "2021/sugar.html"
   },
   {
-    "name": "建构自我价值",
+    "title": "建构自我价值",
     "link": "2021/build-self-worth.html"
   },
   {
-    "name": "Draw Sky, Cloud",
+    "title": "Draw Sky, Cloud",
     "link": "2021/sky-cloud.html"
   },
   {
-    "name": "白蛇 2：青蛇劫起",
+    "title": "白蛇 2：青蛇劫起",
     "link": "2021/white-snake2.html"
   },
   {
-    "name": "Git Credential",
+    "title": "Git Credential",
     "link": "2021/git-credential.html"
   },
   {
-    "name": "scp - OpenSSH secure file copy",
+    "title": "scp - OpenSSH secure file copy",
     "link": "2021/ssh-scp.html"
   },
   {
-    "name": "关注牙齿健康",
+    "title": "关注牙齿健康",
     "link": "2021/human-tooth.html"
   },
   {
-    "name": "Nginx Redirect",
+    "title": "Nginx Redirect",
     "link": "2021/nginx-redirect.html"
   },
   {
-    "name": "ssh-agent",
+    "title": "ssh-agent",
     "link": "2021/ssh-agent.html"
   },
   {
-    "name": "ssh Could not open a connection to your authentication agent.",
+    "title": "ssh Could not open a connection to your authentication agent.",
     "link": "2021/ssh-connection-agent.html"
   },
   {
-    "name": "学习的过程于淼",
+    "title": "学习的过程于淼",
     "link": "2021/process-of-learning.html"
   },
   {
-    "name": "大学的最后一节课",
+    "title": "大学的最后一节课",
     "link": "2021/last-class.html"
   },
   {
-    "name": "如何理解 JS 中的 (e)",
+    "title": "如何理解 JS 中的 (e)",
     "link": "2021/js-e.html"
   },
   {
-    "name": "毕业设计",
+    "title": "毕业设计",
     "link": "2021/graduation-thesis.html"
   },
   {
-    "name": "2021 年 11 月下旬总结",
+    "title": "2021 年 11 月下旬总结",
     "link": "2021/2021-nov-down-summary.html"
   },
   {
-    "name": "遗愿清单",
+    "title": "遗愿清单",
     "link": "2021/bucket-list.html"
   },
   {
-    "name": "镜中女孩",
+    "title": "镜中女孩",
     "link": "2021/girl-in-the-mirror.html"
   },
   {
-    "name": "鸟人",
+    "title": "鸟人",
     "link": "2021/birdman.html"
   },
   {
-    "name": "教育出了问题，如何改变",
+    "title": "教育出了问题，如何改变",
     "link": "2021/education-goes-wrong-how-to-change.html"
   },
   {
-    "name": "Git Remove Untracked Files from Working Tree",
+    "title": "Git Remove Untracked Files from Working Tree",
     "link": "2021/git-remove-untracked-files.html"
   },
   {
-    "name": "李敖",
+    "title": "李敖",
     "link": "2021/li-ao.html"
   },
   {
-    "name": "搜索引擎 9238 谈怎样学搜索",
+    "title": "搜索引擎 9238 谈怎样学搜索",
     "link": "2021/9238-learn-search.html"
   },
   {
-    "name": "How to Get Rich(Without Getting Lucky)",
+    "title": "How to Get Rich(Without Getting Lucky)",
     "link": "2021/how-to-get-rich-without-getting-lucky.html"
   },
   {
-    "name": "Nginx 缩短服务器响应时间",
+    "title": "Nginx 缩短服务器响应时间",
     "link": "2021/nginx-improve-server-response-times.html"
   },
   {
-    "name": "俞敏洪",
+    "title": "俞敏洪",
     "link": "2021/yu-min-hong.html"
   },
   {
-    "name": "为 Org 导出的 HTML Link 添加 target,rel 属性",
+    "title": "为 Org 导出的 HTML Link 添加 target,rel 属性",
     "link": "2021/org-link-extra-attrs.html"
   },
   {
-    "name": "读《读书随想录》",
+    "title": "读《读书随想录》",
     "link": "2021/maugham-thoughts-about-books.html"
   },
   {
-    "name": "读《雪崩》",
+    "title": "读《雪崩》",
     "link": "2021/neal-stephenson-snow-crash.html"
   },
   {
-    "name": "LC101. 对称二叉树",
+    "title": "LC101. 对称二叉树",
     "link": "2021/lc-101-symmetric-tree.html"
   },
   {
-    "name": "JavaScript 工厂函数",
+    "title": "JavaScript 工厂函数",
     "link": "2021/javascript-factory-functions.html"
   },
   {
-    "name": "Git Push Two Remotes",
+    "title": "Git Push Two Remotes",
     "link": "2021/git-push-two-remotes.html"
   },
   {
-    "name": "Bold in Org-mode",
+    "title": "Bold in Org-mode",
     "link": "2021/bold-in-org-mode.html"
   },
   {
-    "name": "建立知识体系",
+    "title": "建立知识体系",
     "link": "2021/create-knowledge-system.html"
   },
   {
-    "name": "如何看到自己的思维方式",
+    "title": "如何看到自己的思维方式",
     "link": "2021/how-to-know-my-thought.html"
   },
   {
-    "name": "如何自学一个领域",
+    "title": "如何自学一个领域",
     "link": "2021/how-to-learn-new-field-by-yourself.html"
   },
   {
-    "name": "学习如何学习",
+    "title": "学习如何学习",
     "link": "2021/learning-how-to-learn.html"
   },
   {
-    "name": "积极心理学",
+    "title": "积极心理学",
     "link": "2021/positive-psychology-by-tal-ben-shahar.html"
   },
   {
-    "name": "Emacs Howto Custom Theme",
+    "title": "Emacs Howto Custom Theme",
     "link": "2021/emacs-howto-custom-theme.html"
   },
   {
-    "name": "PJWD4(JS 高级程序设计第 4 版)C7 迭代器与生成器",
+    "title": "PJWD4(JS 高级程序设计第 4 版)C7 迭代器与生成器",
     "link": "2021/pjwd4-iterators-generators.html"
   },
   {
-    "name": "Arch Bluetooth Stop Working After Some Time",
+    "title": "Arch Bluetooth Stop Working After Some Time",
     "link": "2021/arch-bluetooth-stop-working-after-some-time.html"
   },
   {
-    "name": "Arch System Freeze After Connecting WiFI",
+    "title": "Arch System Freeze After Connecting WiFI",
     "link": "2021/arch-system-freeze-after-connecting-wifi.html"
   },
   {
-    "name": "学习 SEM（基于搜索引擎平台的网络营销）",
+    "title": "学习 SEM（基于搜索引擎平台的网络营销）",
     "link": "2021/learn-sem.html"
   },
   {
-    "name": "Hide Nginx version",
+    "title": "Hide Nginx version",
     "link": "2021/hide-nginx-version.html"
   },
   {
-    "name": "My Rules of Information",
+    "title": "My Rules of Information",
     "link": "2021/rules-of-info-by-block.html"
   },
   {
-    "name": "从多层次理解问题",
+    "title": "从多层次理解问题",
     "link": "2021/understand-problem-from-multi-level.html"
   },
   {
-    "name": "海天霞、#f3a694 以及日常语言的囚笼：你要如何进入这个世界？",
+    "title": "海天霞、#f3a694 以及日常语言的囚笼：你要如何进入这个世界？",
     "link": "2021/traditional-chinese-colors.html"
   },
   {
+<<<<<<< HEAD
     "name": "麻辣拌",
     "link": "2021/spicy-mix.html"
   },
   {
     "name": "LC96. 不同的二叉搜索树",
+=======
+    "title": "麻辣拌",
+    "link": "2021/spicy-mix.html"
+  },
+  {
+    "title": "LC96. 不同的二叉搜索树",
+>>>>>>> 02890f0 (update: blogs)
     "link": "2021/lc-96-unique-binary-search-trees.html"
   },
   {
-    "name": "2021 年 11 月上旬总结",
+    "title": "2021 年 11 月上旬总结",
     "link": "2021/2021-nov-up-summary.html"
   },
   {
-    "name": "LC20. 有效的括号",
+    "title": "LC20. 有效的括号",
     "link": "2021/lc-20-valid-parentheses.html"
   },
   {
+<<<<<<< HEAD
     "name": "雪临有感",
     "link": "2021/feelings-with-snow-2021.html"
   },
   {
     "name": "Nginx 中在 80 端口添加 HTTP/2 出现问题",
+=======
+    "title": "雪临有感",
+    "link": "2021/feelings-with-snow-2021.html"
+  },
+  {
+    "title": "Nginx 中在 80 端口添加 HTTP/2 出现问题",
+>>>>>>> 02890f0 (update: blogs)
     "link": "2021/nginx-80-http2.html"
   },
   {
-    "name": "2021 年 10 月下旬总结",
+    "title": "2021 年 10 月下旬总结",
     "link": "2021/2021-oct-down-summary.html"
   },
   {
-    "name": "降临（Arrival）",
+    "title": "降临（Arrival）",
     "link": "2021/arrival.html"
   },
   {
-    "name": "Emacs 常用快捷键总结",
+    "title": "Emacs 常用快捷键总结",
     "link": "2021/emacs-common-keyboard-shortcuts.html"
   },
   {
-    "name": "通过 Nginx 让网站支持 HTTP/2",
+    "title": "通过 Nginx 让网站支持 HTTP/2",
     "link": "2021/nginx-http2.html"
   },
   {
-    "name": "LC94. 二叉树的中序遍历",
+    "title": "LC94. 二叉树的中序遍历",
     "link": "2021/lc-94-binary-tree-inorder-traversal.html"
   },
   {
-    "name": "LC217. 存在重复元素",
+    "title": "LC217. 存在重复元素",
     "link": "2021/lc-217-contains-duplicate.html"
   },
   {
-    "name": "LC189. 旋转数组",
+    "title": "LC189. 旋转数组",
     "link": "2021/lc-189-rotate-array.html"
   },
   {
-    "name": "在 Ubuntu20.04 配合 Nginx 使用 Let's Encrypt 证书",
+    "title": "在 Ubuntu20.04 配合 Nginx 使用 Let's Encrypt 证书",
     "link": "2021/nginx-ssl.html"
   },
   {
-    "name": "Nginx 重复配置 Server Block",
+    "title": "Nginx 重复配置 Server Block",
     "link": "2021/nginx-repeat-config.html"
   },
   {
-    "name": "LC122. 买卖股票的最佳时机 II",
+    "title": "LC122. 买卖股票的最佳时机 II",
     "link": "2021/lc-122-best-time-to-buy-and-sell-stock-ii.html"
   },
   {
-    "name": "LC26. 删除有序数组中的重复项",
+    "title": "LC26. 删除有序数组中的重复项",
     "link": "2021/lc-26-remove-duplicates-from-sorted-array.html"
   },
   {
-    "name": "LC453. 最小操作次数使数组元素相等",
+    "title": "LC453. 最小操作次数使数组元素相等",
     "link": "2021/lc-453-minimum-moves-to-equal-array-elements.html"
   },
   {
-    "name": "LC167. 两数之和 II - 输入有序数组",
+    "title": "LC167. 两数之和 II - 输入有序数组",
     "link": "2021/lc-167-two-sum-ii-input-array-is-sorted.html"
   },
   {
-    "name": "LC1. 两数之和",
+    "title": "LC1. 两数之和",
     "link": "2021/lc-1-two-sum.html"
   },
   {
-    "name": "2021 年 10 月上旬总结",
+    "title": "2021 年 10 月上旬总结",
     "link": "2021/2021-oct-up-summary.html"
   },
   {
-    "name": "天生有罪",
+    "title": "天生有罪",
     "link": "2021/trevor-noah-born-a-crime.html"
   },
   {
-    "name": "云服务器配置 Git 仓库托管并使用 Git Hooks 自动执行脚本",
+    "title": "云服务器配置 Git 仓库托管并使用 Git Hooks 自动执行脚本",
     "link": "2021/git-server-hook.html"
   },
   {
-    "name": "2021 年 9 月下旬总结",
+    "title": "2021 年 9 月下旬总结",
     "link": "2021/2021-sept-down-summary.html"
   },
   {
-    "name": "部署 Hugo 博客到 Ubuntu 服务器",
+    "title": "部署 Hugo 博客到 Ubuntu 服务器",
     "link": "2021/hugo-deploy-to-server.html"
   },
   {
-    "name": "Nginx 初次使用",
+    "title": "Nginx 初次使用",
     "link": "2021/nginx-1st.html"
   },
   {
-    "name": "2021 年第 37 周总结",
+    "title": "2021 年第 37 周总结",
     "link": "2021/2021-37.html"
   },
   {
-    "name": "2021 年第 36 周总结",
+    "title": "2021 年第 36 周总结",
     "link": "2021/2021-36.html"
   },
   {
-    "name": "2021 年第 35 周总结",
+    "title": "2021 年第 35 周总结",
     "link": "2021/2021-35.html"
   },
   {
-    "name": "生产实习-小米后台管理系统",
+    "title": "生产实习-小米后台管理系统",
     "link": "2021/xiaomi-system.html"
   },
   {
-    "name": "2021 年第 34 周总结",
+    "title": "2021 年第 34 周总结",
     "link": "2021/2021-34.html"
   },
   {
-    "name": "Arch 软件安装和用法",
+    "title": "Arch 软件安装和用法",
     "link": "2021/arch-software-installation-and-usage.html"
   },
   {
-    "name": "Arch 安装指南",
+    "title": "Arch 安装指南",
     "link": "2021/arch-installation-guide.html"
   },
   {
-    "name": "Arch Linux 因卡顿回退 Linux 内核",
+    "title": "Arch Linux 因卡顿回退 Linux 内核",
     "link": "2021/dg-linux-kernel-system-freeze.html"
   },
   {
-    "name": "2021 年第 33 周总结",
+    "title": "2021 年第 33 周总结",
     "link": "2021/2021-33.html"
   },
   {
-    "name": "2021 年第 32 周总结",
+    "title": "2021 年第 32 周总结",
     "link": "2021/2021-32.html"
   },
   {
-    "name": "2021 年第 31 周总结",
+    "title": "2021 年第 31 周总结",
     "link": "2021/2021-31.html"
   },
   {
-    "name": "2021 年第 30 周总结",
+    "title": "2021 年第 30 周总结",
     "link": "2021/2021-30.html"
   },
   {
-    "name": "朝花夕拾",
+    "title": "朝花夕拾",
     "link": "2021/luxun-zhaohuaxishi.html"
   },
   {
-    "name": "2021 年第 29 周总结",
+    "title": "2021 年第 29 周总结",
     "link": "2021/2021-29.html"
   },
   {
+<<<<<<< HEAD
     "name": "醉步男",
     "link": "2021/the-drunken-man.html"
   },
@@ -497,41 +514,73 @@
   },
   {
     "name": "2021 年第 26 周总结",
+=======
+    "title": "醉步男",
+    "link": "2021/the-drunken-man.html"
+  },
+  {
+    "title": "2021 年第 28 周总结",
+    "link": "2021/2021-28.html"
+  },
+  {
+    "title": "闪灵 Shining",
+    "link": "2021/shining.html"
+  },
+  {
+    "title": "2021 年第 27 周总结",
+    "link": "2021/2021-27.html"
+  },
+  {
+    "title": "SICP1: 用过程构建抽象",
+    "link": "2021/sicp-1.html"
+  },
+  {
+    "title": "2021 年第 26 周总结",
+>>>>>>> 02890f0 (update: blogs)
     "link": "2021/2021-26.html"
   },
   {
-    "name": "2021 年第 25 周总结",
+    "title": "2021 年第 25 周总结",
     "link": "2021/2021-25.html"
   },
   {
+<<<<<<< HEAD
     "name": "阿波罗 11 号",
     "link": "2021/apollo-11.html"
   },
   {
     "name": "2021 年第 24 周总结",
+=======
+    "title": "阿波罗 11 号",
+    "link": "2021/apollo-11.html"
+  },
+  {
+    "title": "2021 年第 24 周总结",
+>>>>>>> 02890f0 (update: blogs)
     "link": "2021/2021-24.html"
   },
   {
-    "name": "2021 年第 23 周总结",
+    "title": "2021 年第 23 周总结",
     "link": "2021/2021-23.html"
   },
   {
-    "name": "8+1 框架",
+    "title": "8+1 框架",
     "link": "2021/81-framework.html"
   },
   {
-    "name": "2021 年第 22 周总结",
+    "title": "2021 年第 22 周总结",
     "link": "2021/2021-22.html"
   },
   {
-    "name": "2021 年第 21 周总结",
+    "title": "2021 年第 21 周总结",
     "link": "2021/2021-21.html"
   },
   {
-    "name": "2021 年第 20 周总结",
+    "title": "2021 年第 20 周总结",
     "link": "2021/2021-20.html"
   },
   {
+<<<<<<< HEAD
     "name": "了解糖尿病",
     "link": "2021/diabetes.html"
   },
@@ -549,418 +598,449 @@
   },
   {
     "name": "Don't Be A Programmer, Be A Problem Solver",
+=======
+    "title": "了解糖尿病",
+    "link": "2021/diabetes.html"
+  },
+  {
+    "title": "师说",
+    "link": "2021/hanyu-shishuo.html"
+  },
+  {
+    "title": "2021-19",
+    "link": "2021/2021-19.html"
+  },
+  {
+    "title": "黄花与夕阳",
+    "link": "2021/yellow-flower-and-sunset.html"
+  },
+  {
+    "title": "Don't Be A Programmer, Be A Problem Solver",
+>>>>>>> 02890f0 (update: blogs)
     "link": "2021/do-not-be-a-programmer.html"
   },
   {
-    "name": "2021-18",
+    "title": "2021-18",
     "link": "2021/2021-18.html"
   },
   {
-    "name": "出游记",
+    "title": "出游记",
     "link": "2021/chu-you-ji.html"
   },
   {
+<<<<<<< HEAD
     "name": "闹海",
     "link": "2021/naohai.html"
   },
   {
     "name": "道德经",
+=======
+    "title": "闹海",
+    "link": "2021/naohai.html"
+  },
+  {
+    "title": "道德经",
+>>>>>>> 02890f0 (update: blogs)
     "link": "2021/tao-te-ching.html"
   },
   {
-    "name": "自学是门手艺",
+    "title": "自学是门手艺",
     "link": "2021/the-craft-of-selfteaching.html"
   },
   {
-    "name": "我想要的总统",
+    "title": "我想要的总统",
     "link": "2021/i-want-a-president.html"
   },
   {
-    "name": "Breathe",
+    "title": "Breathe",
     "link": "2021/breathe.html"
   },
   {
-    "name": "数学的思维方式与创新",
+    "title": "数学的思维方式与创新",
     "link": "2021/math-think-innovate.html"
   },
   {
-    "name": "如何利用好自己的时间",
+    "title": "如何利用好自己的时间",
     "link": "2021/haoel-time-management-2.html"
   },
   {
-    "name": "同扭曲时间的事儿抗争",
+    "title": "同扭曲时间的事儿抗争",
     "link": "2021/haoel-time-management-1.html"
   },
   {
-    "name": "一枚书签",
+    "title": "一枚书签",
     "link": "2021/bookmark.html"
   },
   {
-    "name": "如何有效整理信息",
+    "title": "如何有效整理信息",
     "link": "2021/how-to-organize-information-effectively.html"
   },
   {
-    "name": "毕业演讲",
+    "title": "毕业演讲",
     "link": "2021/a-speech-on-graduation.html"
   },
   {
-    "name": "比海更深（海よりもまだ深く）",
+    "title": "比海更深（海よりもまだ深く）",
     "link": "2021/after-the-storm.html"
   },
   {
-    "name": "雨",
+    "title": "雨",
     "link": "2021/rain.html"
   },
   {
-    "name": "蝙蝠侠系列",
+    "title": "蝙蝠侠系列",
     "link": "2021/batman.html"
   },
   {
-    "name": "你好，李焕英",
+    "title": "你好，李焕英",
     "link": "2021/hello-lihuanying.html"
   },
   {
-    "name": "前方",
+    "title": "前方",
     "link": "2021/the-front.html"
   },
   {
-    "name": "How to be a Programmer 中文版",
+    "title": "How to be a Programmer 中文版",
     "link": "2021/how-to-be-a-programmer-zh.html"
   },
   {
-    "name": "黑客与画家(Hackers and Painters)",
+    "title": "黑客与画家(Hackers and Painters)",
     "link": "2021/hackers-and-painters.html"
   },
   {
-    "name": "关于好文章",
+    "title": "关于好文章",
     "link": "2021/about-good-posts.html"
   },
   {
-    "name": "永恒的终结",
+    "title": "永恒的终结",
     "link": "2021/asimov-the-end-of-eternity.html"
   },
   {
-    "name": "2021-07",
+    "title": "2021-07",
     "link": "2021/2021-07.html"
   },
   {
-    "name": "阿西莫夫最新科学指南（上下册）",
+    "title": "阿西莫夫最新科学指南（上下册）",
     "link": "2021/asimov-the-intelligent-mans-guide-to-science.html"
   },
   {
-    "name": "不要限制自己",
+    "title": "不要限制自己",
     "link": "2021/do-not-limit-yourself.html"
   },
   {
-    "name": "IMAP 和 POP3 有什么区别？",
+    "title": "IMAP 和 POP3 有什么区别？",
     "link": "2021/difference-between-imap-pop3.html"
   },
   {
-    "name": "设计自己的标志",
+    "title": "设计自己的标志",
     "link": "2021/design-my-own-logo.html"
   },
   {
-    "name": "为 GitHub 主页添加「年进度」和「最近更新的博客文章」",
+    "title": "为 GitHub 主页添加「年进度」和「最近更新的博客文章」",
     "link": "2021/create-cool-github-profile.html"
   },
   {
-    "name": "10 of the Most Famous Female Artist Self-Portraits",
+    "title": "10 of the Most Famous Female Artist Self-Portraits",
     "link": "2021/female-artist-self-portraits.html"
   },
   {
-    "name": "Cloudy Evening Sky",
+    "title": "Cloudy Evening Sky",
     "link": "2021/cloudy-evening-sky.html"
   },
   {
-    "name": "Bathers at Moritzburg",
+    "title": "Bathers at Moritzburg",
     "link": "2021/bathers-at-moritzburg.html"
   },
   {
-    "name": "2021-03",
+    "title": "2021-03",
     "link": "2021/2021-03.html"
   },
   {
-    "name": "2021-02",
+    "title": "2021-02",
     "link": "2021/2021-02.html"
   },
   {
-    "name": "2020 年终总结",
+    "title": "2020 年终总结",
     "link": "2021/2020.html"
   },
   {
-    "name": "2020-52",
+    "title": "2020-52",
     "link": "2020/2020-52.html"
   },
   {
-    "name": "2020-51",
+    "title": "2020-51",
     "link": "2020/2020-51.html"
   },
   {
-    "name": "奇怪",
+    "title": "奇怪",
     "link": "2020/strange.html"
   },
   {
-    "name": "大逃杀（バトル・ロワイアル）",
+    "title": "大逃杀（バトル・ロワイアル）",
     "link": "2020/battle-royale.html"
   },
   {
-    "name": "给自己的一封信",
+    "title": "给自己的一封信",
     "link": "2020/a-letter-to-myself.html"
   },
   {
-    "name": "2020-46",
+    "title": "2020-46",
     "link": "2020/2020-46.html"
   },
   {
-    "name": "美丽心灵（A Beautiful Mind）",
+    "title": "美丽心灵（A Beautiful Mind）",
     "link": "2020/a-beautiful-mind.html"
   },
   {
-    "name": "完美的世界（A Perfect World）",
+    "title": "完美的世界（A Perfect World）",
     "link": "2020/a-perfect-world.html"
   },
   {
-    "name": "为奴十二年（12 Years a Slave）",
+    "title": "为奴十二年（12 Years a Slave）",
     "link": "2020/12-years-a-slave.html"
   },
   {
-    "name": "2020-45",
+    "title": "2020-45",
     "link": "2020/2020-45.html"
   },
   {
-    "name": "2020-44",
+    "title": "2020-44",
     "link": "2020/2020-44.html"
   },
   {
-    "name": "2020-43",
+    "title": "2020-43",
     "link": "2020/2020-43.html"
   },
   {
-    "name": "晨曦，落叶🍂",
+    "title": "晨曦，落叶🍂",
     "link": "2020/sun-and-leaves.html"
   },
   {
-    "name": "2020-42",
+    "title": "2020-42",
     "link": "2020/2020-42.html"
   },
   {
-    "name": "2020-41",
+    "title": "2020-41",
     "link": "2020/2020-41.html"
   },
   {
-    "name": "2020-40",
+    "title": "2020-40",
     "link": "2020/2020-40.html"
   },
   {
-    "name": "2020-39",
+    "title": "2020-39",
     "link": "2020/2020-39.html"
   },
   {
-    "name": "2020-38",
+    "title": "2020-38",
     "link": "2020/2020-38.html"
   },
   {
-    "name": "2020-37",
+    "title": "2020-37",
     "link": "2020/2020-37.html"
   },
   {
-    "name": "批判性思维：批判性阅读的方法和实践",
+    "title": "批判性思维：批判性阅读的方法和实践",
     "link": "2020/critical-thinking-3.html"
   },
   {
-    "name": "批判性思维：思维品质和思维技能",
+    "title": "批判性思维：思维品质和思维技能",
     "link": "2020/critical-thinking-2.html"
   },
   {
-    "name": "2020-36",
+    "title": "2020-36",
     "link": "2020/2020-36.html"
   },
   {
-    "name": "批判性思维：批判精神与理性美德",
+    "title": "批判性思维：批判精神与理性美德",
     "link": "2020/critical-thinking-1.html"
   },
   {
-    "name": "批判性思维：定义及价值",
+    "title": "批判性思维：定义及价值",
     "link": "2020/critical-thinking-0.html"
   },
   {
-    "name": "2020-35",
+    "title": "2020-35",
     "link": "2020/2020-35.html"
   },
   {
-    "name": "2020-34",
+    "title": "2020-34",
     "link": "2020/2020-34.html"
   },
   {
-    "name": "2020-32",
+    "title": "2020-32",
     "link": "2020/2020-32.html"
   },
   {
-    "name": "2020-31",
+    "title": "2020-31",
     "link": "2020/2020-31.html"
   },
   {
-    "name": "2020-30",
+    "title": "2020-30",
     "link": "2020/2020-30.html"
   },
   {
-    "name": "2020-29",
+    "title": "2020-29",
     "link": "2020/2020-29.html"
   },
   {
-    "name": "2020-28",
+    "title": "2020-28",
     "link": "2020/2020-28.html"
   },
   {
-    "name": "2020-27",
+    "title": "2020-27",
     "link": "2020/2020-27.html"
   },
   {
-    "name": "2020-26",
+    "title": "2020-26",
     "link": "2020/2020-26.html"
   },
   {
-    "name": "2020-25",
+    "title": "2020-25",
     "link": "2020/2020-25.html"
   },
   {
-    "name": "一场梦",
+    "title": "一场梦",
     "link": "2020/a-dream.html"
   },
   {
-    "name": "212 号房间（Chambre 212）",
+    "title": "212 号房间（Chambre 212）",
     "link": "2020/chambre-212.html"
   },
   {
-    "name": "2020-24",
+    "title": "2020-24",
     "link": "2020/2020-24.html"
   },
   {
-    "name": "为本地添加多个 GitHub 账户",
+    "title": "为本地添加多个 GitHub 账户",
     "link": "2020/add-multiple-github-accounts.html"
   },
   {
-    "name": "2020-23",
+    "title": "2020-23",
     "link": "2020/2020-23.html"
   },
   {
-    "name": "人人都能用英语",
+    "title": "人人都能用英语",
     "link": "2020/everyone-can-use-english.html"
   },
   {
-    "name": "2020-22",
+    "title": "2020-22",
     "link": "2020/2020-22.html"
   },
   {
-    "name": "死亡诗社（Dead Poets Society）",
+    "title": "死亡诗社（Dead Poets Society）",
     "link": "2020/dead-poets-society.html"
   },
   {
-    "name": "光明在哪里",
+    "title": "光明在哪里",
     "link": "2020/where-is-the-light.html"
   },
   {
-    "name": "何以为家（كفرناحوم）",
+    "title": "何以为家（كفرناحوم）",
     "link": "2020/capernaum.html"
   },
   {
-    "name": "大象席地而坐（电影）",
+    "title": "大象席地而坐（电影）",
     "link": "2020/an-elephant-sitting-still.html"
   },
   {
-    "name": "未来世界的幸存者",
+    "title": "未来世界的幸存者",
     "link": "2020/survivors-of-the-future.html"
   },
   {
-    "name": "常用镜像列表",
+    "title": "常用镜像列表",
     "link": "2020/common-mirror-list.html"
   },
   {
-    "name": "鸟哥的 Linux 私房菜",
+    "title": "鸟哥的 Linux 私房菜",
     "link": "2020/birdman-linux.html"
   },
   {
-    "name": "为终端配置代理",
+    "title": "为终端配置代理",
     "link": "2020/configure-proxy-for-terminal.html"
   },
   {
-    "name": "人生在世，做好自己",
+    "title": "人生在世，做好自己",
     "link": "2020/be-alive-and-be-yourself.html"
   },
   {
-    "name": "动画做得最好的就是吉卜力工作室",
+    "title": "动画做得最好的就是吉卜力工作室",
     "link": "2020/ghibli-studio.html"
   },
   {
-    "name": "2019 年终总结",
+    "title": "2019 年终总结",
     "link": "2019/2019.html"
   },
   {
-    "name": "天空之城（天空の城ラピュタ）",
+    "title": "天空之城（天空の城ラピュタ）",
     "link": "2019/city-of-sky.html"
   },
   {
-    "name": "交流，满足，积累，作业",
+    "title": "交流，满足，积累，作业",
     "link": "2019/communication-satisfaction-accumulation-homework.html"
   },
   {
-    "name": "别人的夸奖可能是致命的",
+    "title": "别人的夸奖可能是致命的",
     "link": "2019/compliments-from-others-can-be-fatal.html"
   },
   {
-    "name": "遥远的救世主",
+    "title": "遥远的救世主",
     "link": "2019/distant-savior.html"
   },
   {
-    "name": "文化价值观和自尊",
+    "title": "文化价值观和自尊",
     "link": "2019/cultural-values-and-self-esteem.html"
   },
   {
-    "name": "些许烦忧",
+    "title": "些许烦忧",
     "link": "2019/a-little-worry.html"
   },
   {
-    "name": "焦虑使人进步，我安慰自己道",
+    "title": "焦虑使人进步，我安慰自己道",
     "link": "2019/anxious-person.html"
   },
   {
-    "name": "深度拖延者报道",
+    "title": "深度拖延者报道",
     "link": "2019/deep-procrastinator-report.html"
   },
   {
-    "name": "一个女人一生中的二十四小时",
+    "title": "一个女人一生中的二十四小时",
     "link": "2019/24-hours-in-the-life-of-a-woman.html"
   },
   {
-    "name": "恍惚人间",
+    "title": "恍惚人间",
     "link": "2019/huang-hu-ren-jian.html"
   },
   {
-    "name": "红楼梦",
+    "title": "红楼梦",
     "link": "2019/dream-of-the-red-chamber.html"
   },
   {
-    "name": "不迷茫手册",
+    "title": "不迷茫手册",
     "link": "2019/not-confused-manual.html"
   },
   {
-    "name": "你是一个有想象力的人吗？",
+    "title": "你是一个有想象力的人吗？",
     "link": "2019/are-you-an-imaginative-person.html"
   },
   {
-    "name": "一个男生对一个女孩的内心独白",
+    "title": "一个男生对一个女孩的内心独白",
     "link": "2019/boy-inner-monologue-to-girl.html"
   },
   {
-    "name": "我想花时间想一件事情",
+    "title": "我想花时间想一件事情",
     "link": "2019/spend-time-to-think-just-one-thing.html"
   },
   {
-    "name": "死亡是一件不必急于求成的事",
+    "title": "死亡是一件不必急于求成的事",
     "link": "2019/death-is-matter-of-not-rushing-for.html"
   },
   {
+<<<<<<< HEAD
     "name": "雪临有感",
+=======
+    "title": "雪临有感",
+>>>>>>> 02890f0 (update: blogs)
     "link": "2018/feelings-with-snow.html"
   }
 ]
