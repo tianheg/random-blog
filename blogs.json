@@ -316,19 +316,11 @@
     "link": "2021/traditional-chinese-colors.html"
   },
   {
-<<<<<<< HEAD
-    "name": "麻辣拌",
-    "link": "2021/spicy-mix.html"
-  },
-  {
-    "name": "LC96. 不同的二叉搜索树",
-=======
     "title": "麻辣拌",
     "link": "2021/spicy-mix.html"
   },
   {
     "title": "LC96. 不同的二叉搜索树",
->>>>>>> 02890f0 (update: blogs)
     "link": "2021/lc-96-unique-binary-search-trees.html"
   },
   {
@@ -340,19 +332,11 @@
     "link": "2021/lc-20-valid-parentheses.html"
   },
   {
-<<<<<<< HEAD
-    "name": "雪临有感",
-    "link": "2021/feelings-with-snow-2021.html"
-  },
-  {
-    "name": "Nginx 中在 80 端口添加 HTTP/2 出现问题",
-=======
     "title": "雪临有感",
     "link": "2021/feelings-with-snow-2021.html"
   },
   {
     "title": "Nginx 中在 80 端口添加 HTTP/2 出现问题",
->>>>>>> 02890f0 (update: blogs)
     "link": "2021/nginx-80-http2.html"
   },
   {
@@ -492,29 +476,6 @@
     "link": "2021/2021-29.html"
   },
   {
-<<<<<<< HEAD
-    "name": "醉步男",
-    "link": "2021/the-drunken-man.html"
-  },
-  {
-    "name": "2021 年第 28 周总结",
-    "link": "2021/2021-28.html"
-  },
-  {
-    "name": "闪灵 Shining",
-    "link": "2021/shining.html"
-  },
-  {
-    "name": "2021 年第 27 周总结",
-    "link": "2021/2021-27.html"
-  },
-  {
-    "name": "SICP1: 用过程构建抽象",
-    "link": "2021/sicp-1.html"
-  },
-  {
-    "name": "2021 年第 26 周总结",
-=======
     "title": "醉步男",
     "link": "2021/the-drunken-man.html"
   },
@@ -536,7 +497,6 @@
   },
   {
     "title": "2021 年第 26 周总结",
->>>>>>> 02890f0 (update: blogs)
     "link": "2021/2021-26.html"
   },
   {
@@ -544,19 +504,11 @@
     "link": "2021/2021-25.html"
   },
   {
-<<<<<<< HEAD
-    "name": "阿波罗 11 号",
-    "link": "2021/apollo-11.html"
-  },
-  {
-    "name": "2021 年第 24 周总结",
-=======
     "title": "阿波罗 11 号",
     "link": "2021/apollo-11.html"
   },
   {
     "title": "2021 年第 24 周总结",
->>>>>>> 02890f0 (update: blogs)
     "link": "2021/2021-24.html"
   },
   {
@@ -580,25 +532,6 @@
     "link": "2021/2021-20.html"
   },
   {
-<<<<<<< HEAD
-    "name": "了解糖尿病",
-    "link": "2021/diabetes.html"
-  },
-  {
-    "name": "师说",
-    "link": "2021/hanyu-shishuo.html"
-  },
-  {
-    "name": "2021-19",
-    "link": "2021/2021-19.html"
-  },
-  {
-    "name": "黄花与夕阳",
-    "link": "2021/yellow-flower-and-sunset.html"
-  },
-  {
-    "name": "Don't Be A Programmer, Be A Problem Solver",
-=======
     "title": "了解糖尿病",
     "link": "2021/diabetes.html"
   },
@@ -616,7 +549,6 @@
   },
   {
     "title": "Don't Be A Programmer, Be A Problem Solver",
->>>>>>> 02890f0 (update: blogs)
     "link": "2021/do-not-be-a-programmer.html"
   },
   {
@@ -628,19 +560,11 @@
     "link": "2021/chu-you-ji.html"
   },
   {
-<<<<<<< HEAD
-    "name": "闹海",
-    "link": "2021/naohai.html"
-  },
-  {
-    "name": "道德经",
-=======
     "title": "闹海",
     "link": "2021/naohai.html"
   },
   {
     "title": "道德经",
->>>>>>> 02890f0 (update: blogs)
     "link": "2021/tao-te-ching.html"
   },
   {
@@ -1036,11 +960,7 @@
     "link": "2019/death-is-matter-of-not-rushing-for.html"
   },
   {
-<<<<<<< HEAD
-    "name": "雪临有感",
-=======
     "title": "雪临有感",
->>>>>>> 02890f0 (update: blogs)
     "link": "2018/feelings-with-snow.html"
   }
 ]
