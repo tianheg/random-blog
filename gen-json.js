@@ -45,7 +45,7 @@ async function scrapeData() {
         console.error(err);
         return;
       }
-      console.log("Successfully written data to file");
+      console.log("Successfully written data to blogs.json");
     });
   } catch (err) {
     console.error(err);
