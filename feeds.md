@@ -1,3 +1,4 @@
+- [undefined与null的区别 - 阮一峰的网络日志](https://www.ruanyifeng.com/blog/2014/03/undefined-vs-null.html)
 - [Notion 的支撑者](https://mp.weixin.qq.com/s/MbWAx_pVa42Y1q8qieRmGA)
 - [I finally escaped Node (and you can too)](https://www.acco.io/i-escaped-node)
 - [What is a Polyfill?](https://remysharp.com/2010/10/08/what-is-a-polyfill)
