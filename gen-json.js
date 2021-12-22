@@ -2,6 +2,17 @@ const axios = require("axios");
 const cheerio = require("cheerio");
 const fs = require("fs");
 
+// for feeds.json
+let parser = require("md-list-tree-parser");
+let feeds = parser("./feeds.md");
+fs.writeFile("feeds.json", JSON.stringify(feeds, null, 2), (err) => {
+  if (err) {
+    console.error(err);
+    return;
+  }
+  console.log("Successfully written data to feeds.json");
+});
+
 const url = "https://www.yidajiabei.xyz/blog/index.html";
 
 async function scrapeData() {
@@ -17,12 +28,12 @@ async function scrapeData() {
     // Use .each method to loop through the li we selected
     listItems.each((idx, el) => {
       // Object holding data for each country/jurisdiction
-      const country = { name: "", link: "" }; // , link: ""
+      const country = { title: "", link: "" }; // , link: ""
       // Select the text content of a and span elements
       // Store the textcontent in the above object
-      country.name = $(el).children("a").text();
+      country.title = $(el).children("a").text();
       country.link = $(el).children("a").attr("href");
-      console.log(country.name);
+      // console.log(country.title);
       // Populate countries array with country data
       countries.push(country);
     });
