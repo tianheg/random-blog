@@ -1,3 +1,4 @@
+- [What Was TON And Why It Is Over](https://telegra.ph/What-Was-TON-And-Why-It-Is-Over-05-12)
 - [Steve说212期 - 杜素娟 - 文学是人生的后悔药](https://www.xiaoyuzhoufm.com/episode/5fca27e0dee9c1e16d0eb010)
 - [Ep21 姚洋：如何研究中国？](https://www.xiaoyuzhoufm.com/episode/61c018e0bf82901756f5013e)
 - [Don’t Be a Programmer, Be a Problem Solver](https://medium.com/@martintumusiime/dont-be-a-programmer-be-a-problem-solver-43e12459d8b2)
