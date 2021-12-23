@@ -1,5 +1,5 @@
 $.getJSON("blogs.json", function (data) {
-  let randomBlog = data[Math.ceil(Math.random() * data.length) - 1]; // get each JSON object
+  let randomBlog = data[Math.ceil(Math.random() * data.length) + 1]; // get each JSON object
   // console.log(Math.ceil(Math.random() * data.length));
   document.getElementById("blogs").innerText = randomBlog.title;
   document.getElementById("blogs").href =
@@ -9,7 +9,7 @@ $.getJSON("blogs.json", function (data) {
 });
 
 $.getJSON("feeds.json", function (data) {
-  let randomBlog = data[Math.ceil(Math.random() * data.length) - 1]; // get each JSON object
+  let randomBlog = data[Math.ceil(Math.random() * data.length) + 1]; // get each JSON object
   // console.log(Math.ceil(Math.random() * data.length));
   document.getElementById("feeds").innerText = randomBlog.title;
   document.getElementById("feeds").href = randomBlog.link;
