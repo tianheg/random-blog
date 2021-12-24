@@ -1,3 +1,4 @@
+- [理解何谓理解 | Understanding Understanding](https://www.notion.so/Understanding-Understanding-0df94037df1d43fd92c67572f56c8bcc)
 - [Ten computer codes that transformed science](https://www.nature.com/articles/d41586-021-00075-2)
 - [What Was TON And Why It Is Over](https://telegra.ph/What-Was-TON-And-Why-It-Is-Over-05-12)
 - [Steve说212期 - 杜素娟 - 文学是人生的后悔药](https://www.xiaoyuzhoufm.com/episode/5fca27e0dee9c1e16d0eb010)
