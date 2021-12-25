@@ -1,3 +1,4 @@
+- [The most counterintuitive facts in all of mathematics, computer science, and physics](https://axisofordinary.substack.com/p/the-most-counterintuitive-facts-in)
 - [My beautiful Linux development environment](https://deepu.tech/my-beautiful-linux-development-environment)
 - [理解何谓理解 | Understanding Understanding](https://www.notion.so/Understanding-Understanding-0df94037df1d43fd92c67572f56c8bcc)
 - [Ten computer codes that transformed science](https://www.nature.com/articles/d41586-021-00075-2)
