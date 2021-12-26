@@ -1,5 +1,37 @@
 [
   {
+    "title": ""
+  },
+  {
+    "title": ""
+  },
+  {
+    "title": ""
+  },
+  {
+    "title": ""
+  },
+  {
+    "title": "Redundancy is Life, Except When it's Death",
+    "link": "2021/redundancy-is-life-except-when-its-death.html"
+  },
+  {
+    "title": "克拉拉与太阳",
+    "link": "2021/kazuo-shiguro-klara-and-the-sun.html"
+  },
+  {
+    "title": "了解自己，珍惜少数的人和事",
+    "link": "2021/learn-about-myself.html"
+  },
+  {
+    "title": "KDE 开机自启 ssh agent，加载密匙",
+    "link": "2021/ssh-agent-kde.html"
+  },
+  {
+    "title": "WARNING: UNPROTECTED PRIVATE KEY FILE! 警告怎样解释",
+    "link": "2021/ssh-unprotected-private-key-file.html"
+  },
+  {
     "title": "自我演化",
     "link": "2021/change-myself.html"
   },
