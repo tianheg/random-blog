@@ -12,6 +12,10 @@
     "title": ""
   },
   {
+    "title": "Emacs 下将 Org 导出为 pdf",
+    "link": "2021/org-mode-export-pdf.html"
+  },
+  {
     "title": "Redundancy is Life, Except When it's Death",
     "link": "2021/redundancy-is-life-except-when-its-death.html"
   },
