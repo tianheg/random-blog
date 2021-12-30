@@ -12,6 +12,18 @@
     "title": ""
   },
   {
+    "title": "俞军 2020 年知乎回答问题",
+    "link": "2021/yujun-answer-questions.html"
+  },
+  {
+    "title": "多一点怀疑，不要轻信",
+    "link": "2021/have-doubt-donot-just-believe.html"
+  },
+  {
+    "title": "做你真正想做的事情",
+    "link": "2021/do-what-you-really-want.html"
+  },
+  {
     "title": "Emacs 下将 Org 导出为 pdf",
     "link": "2021/org-mode-export-pdf.html"
   },
@@ -174,6 +186,10 @@
   {
     "title": "我什么也没干，只是在好好活着 | 和抑郁情绪共处的 315 天",
     "link": "2021/stay-alive.html"
+  },
+  {
+    "title": "HTML5 权威指南",
+    "link": "2021/definitive-guide-to-html5.html"
   },
   {
     "title": "使用 Org Mode 写博客",
@@ -340,6 +356,10 @@
     "link": "2021/emacs-howto-custom-theme.html"
   },
   {
+    "title": "JavaScript 高级程序设计第 4 版",
+    "link": "2021/professional-javascript-for-web-developers.html"
+  },
+  {
     "title": "Arch Bluetooth Stop Working After Some Time",
     "link": "2021/arch-bluetooth-stop-working-after-some-time.html"
   },
@@ -380,8 +400,16 @@
     "link": "2021/2021-nov-up-summary.html"
   },
   {
+    "title": "Git tag,branch,submodule 基本使用",
+    "link": "2021/git-tag-branch-submodule-basic-usage.html"
+  },
+  {
     "title": "LC20. 有效的括号",
     "link": "2021/lc-20-valid-parentheses.html"
+  },
+  {
+    "title": "JS 字符串 includes()",
+    "link": "2021/js-string-includes.html"
   },
   {
     "title": "雪临有感",
@@ -402,6 +430,10 @@
   {
     "title": "Emacs 常用快捷键总结",
     "link": "2021/emacs-common-keyboard-shortcuts.html"
+  },
+  {
+    "title": "Emacs 未指定 ispell-hunspell-dict-paths-alist 报错",
+    "link": "2021/emacs-error-about-ispell-hunspell-dict-paths-alist.html"
   },
   {
     "title": "通过 Nginx 让网站支持 HTTP/2",
@@ -512,8 +544,16 @@
     "link": "2021/2021-32.html"
   },
   {
+    "title": "Install WordPress With LAMP",
+    "link": "2021/wordpress-with-lamp.html"
+  },
+  {
     "title": "2021 年第 31 周总结",
     "link": "2021/2021-31.html"
+  },
+  {
+    "title": "Theranos 标志着硅谷泡沫的顶峰吗？",
+    "link": "2021/does-theranos-mark-the-peak-of-the-silicon-valley-bubble.html"
   },
   {
     "title": "2021 年第 30 周总结",
@@ -600,6 +640,10 @@
     "link": "2021/yellow-flower-and-sunset.html"
   },
   {
+    "title": "Ethan Hawke - Ryan's Song",
+    "link": "2021/ethan-hawke-ryans-song.html"
+  },
+  {
     "title": "2021-18",
     "link": "2021/2021-18.html"
   },
@@ -664,8 +708,20 @@
     "link": "2021/hello-lihuanying.html"
   },
   {
+    "title": "基础是基础",
+    "link": "2021/emphasizing-basic.html"
+  },
+  {
     "title": "前方",
     "link": "2021/the-front.html"
+  },
+  {
+    "title": "How to be a Programmer 中文版",
+    "link": "2021/how-to-be-a-programmer-zh.html"
+  },
+  {
+    "title": "黑客与画家",
+    "link": "2021/paul-graham-hackers-and-painters.html"
   },
   {
     "title": "关于好文章",
@@ -700,6 +756,10 @@
     "link": "2021/create-cool-github-profile.html"
   },
   {
+    "title": "倾读心声",
+    "link": "2021/giving-voice.html"
+  },
+  {
     "title": "10 of the Most Famous Female Artist Self-Portraits",
     "link": "2021/female-artist-self-portraits.html"
   },
@@ -724,6 +784,10 @@
     "link": "2021/2020.html"
   },
   {
+    "title": "科学怪人",
+    "link": "2020/frankenstein.html"
+  },
+  {
     "title": "2020-52",
     "link": "2020/2020-52.html"
   },
@@ -734,6 +798,10 @@
   {
     "title": "奇怪",
     "link": "2020/strange.html"
+  },
+  {
+    "title": "怎样获得 GitHub 的 stars 列表",
+    "link": "2020/get-github-stars.html"
   },
   {
     "title": "大逃杀（バトル・ロワイアル）",
@@ -776,8 +844,20 @@
     "link": "2020/sun-and-leaves.html"
   },
   {
+    "title": "一个叫欧维的男人决定去死（电影）",
+    "link": "2020/en-man-som-heter-ove.html"
+  },
+  {
+    "title": "同等族群",
+    "link": "2020/equals.html"
+  },
+  {
     "title": "2020-42",
     "link": "2020/2020-42.html"
+  },
+  {
+    "title": "饥饿站台",
+    "link": "2020/ei-hoyo.html"
   },
   {
     "title": "2020-41",
@@ -912,8 +992,20 @@
     "link": "2020/common-mirror-list.html"
   },
   {
+    "title": "鸟哥的 Linux 私房菜",
+    "link": "2020/birdman-linux.html"
+  },
+  {
+    "title": "不必彷徨，放手去做",
+    "link": "2020/donot-hesitate-just-do-it.html"
+  },
+  {
     "title": "为终端配置代理",
     "link": "2020/configure-proxy-for-terminal.html"
+  },
+  {
+    "title": "恐惧能使人死亡",
+    "link": "2020/fear-can-kill-people.html"
   },
   {
     "title": "人生在世，做好自己",
@@ -924,12 +1016,20 @@
     "link": "2020/ghibli-studio.html"
   },
   {
+    "title": "过年回家找爸妈",
+    "link": "2020/go-home-to-find-parents.html"
+  },
+  {
     "title": "2019 年终总结",
     "link": "2019/2019.html"
   },
   {
     "title": "天空之城（天空の城ラピュタ）",
     "link": "2019/city-of-sky.html"
+  },
+  {
+    "title": "凡事都会以美好结局",
+    "link": "2019/everything-will-end-well.html"
   },
   {
     "title": "交流，满足，积累，作业",
@@ -956,8 +1056,28 @@
     "link": "2019/anxious-person.html"
   },
   {
+    "title": "做有价值的事情",
+    "link": "2019/do-valuable-things.html"
+  },
+  {
+    "title": "每一个人都是一个多面手",
+    "link": "2019/everyone-is-a-generalist.html"
+  },
+  {
+    "title": "不必因为贪玩而后悔",
+    "link": "2019/donot-have-to-regret-it-for-fun.html"
+  },
+  {
     "title": "深度拖延者报道",
     "link": "2019/deep-procrastinator-report.html"
+  },
+  {
+    "title": "不要对自己期待过高",
+    "link": "2019/donot-expect-too-much-from-yourself.html"
+  },
+  {
+    "title": "不要坚持，要习惯",
+    "link": "2019/donot-insist-get-used-to-it.html"
   },
   {
     "title": "一个女人一生中的二十四小时",
@@ -968,12 +1088,20 @@
     "link": "2019/huang-hu-ren-jian.html"
   },
   {
+    "title": "今天的图书馆人很少，适合看书",
+    "link": "2019/few-people-in-library-suitable-for-reading.html"
+  },
+  {
     "title": "红楼梦",
     "link": "2019/dream-of-the-red-chamber.html"
   },
   {
     "title": "不迷茫手册",
     "link": "2019/not-confused-manual.html"
+  },
+  {
+    "title": "追随自我",
+    "link": "2019/follow-myself.html"
   },
   {
     "title": "你是一个有想象力的人吗？",
@@ -990,6 +1118,10 @@
   {
     "title": "死亡是一件不必急于求成的事",
     "link": "2019/death-is-matter-of-not-rushing-for.html"
+  },
+  {
+    "title": "新年随笔",
+    "link": "2019/essay-in-the-new-year.html"
   },
   {
     "title": "雪临有感",
