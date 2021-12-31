@@ -244,7 +244,7 @@
     "link": "2021/ssh-connection-agent.html"
   },
   {
-    "title": "学习的过程于淼",
+    "title": "学习的过程",
     "link": "2021/process-of-learning.html"
   },
   {
@@ -408,6 +408,14 @@
     "link": "2021/lc-20-valid-parentheses.html"
   },
   {
+    "title": "HTML Marking Up Letter",
+    "link": "2021/html-marking-up-letter.html"
+  },
+  {
+    "title": "HTML Tables Structuring Planet Data",
+    "link": "2021/html-tables-structuring-planet-data.html"
+  },
+  {
     "title": "JS 字符串 includes()",
     "link": "2021/js-string-includes.html"
   },
@@ -556,12 +564,20 @@
     "link": "2021/does-theranos-mark-the-peak-of-the-silicon-valley-bubble.html"
   },
   {
+    "title": "2021 年第 30 周问题汇总",
+    "link": "2021/question-2021-30.html"
+  },
+  {
     "title": "2021 年第 30 周总结",
     "link": "2021/2021-30.html"
   },
   {
     "title": "朝花夕拾",
     "link": "2021/luxun-zhaohuaxishi.html"
+  },
+  {
+    "title": "2021 年第 29 周问题汇总",
+    "link": "2021/question-2021-29.html"
   },
   {
     "title": "2021 年第 29 周总结",
@@ -576,8 +592,16 @@
     "link": "2021/2021-28.html"
   },
   {
+    "title": "2021 年第 28 周问题汇总",
+    "link": "2021/question-2021-28.html"
+  },
+  {
     "title": "闪灵 Shining",
     "link": "2021/shining.html"
+  },
+  {
+    "title": "2021 年第 27 周问题汇总",
+    "link": "2021/question-2021-27.html"
   },
   {
     "title": "2021 年第 27 周总结",
@@ -592,16 +616,36 @@
     "link": "2021/2021-26.html"
   },
   {
+    "title": "2021 年第 26 周问题汇总",
+    "link": "2021/question-2021-26.html"
+  },
+  {
     "title": "2021 年第 25 周总结",
     "link": "2021/2021-25.html"
+  },
+  {
+    "title": "2021 年第 24 周问题汇总",
+    "link": "2021/question-2021-24.html"
   },
   {
     "title": "阿波罗 11 号",
     "link": "2021/apollo-11.html"
   },
   {
+    "title": "2021 年第 23 周问题汇总",
+    "link": "2021/question-2021-23.html"
+  },
+  {
     "title": "2021 年第 24 周总结",
     "link": "2021/2021-24.html"
+  },
+  {
+    "title": "安装 intltool",
+    "link": "2021/missing-intltool.html"
+  },
+  {
+    "title": "2021 年第 22 周问题汇总",
+    "link": "2021/question-2021-22.html"
   },
   {
     "title": "2021 年第 23 周总结",
@@ -612,12 +656,36 @@
     "link": "2021/81-framework.html"
   },
   {
+    "title": "2021 年第 21 周问题汇总",
+    "link": "2021/question-2021-21.html"
+  },
+  {
     "title": "2021 年第 22 周总结",
     "link": "2021/2021-22.html"
   },
   {
     "title": "2021 年第 21 周总结",
     "link": "2021/2021-21.html"
+  },
+  {
+    "title": "Learn in Public",
+    "link": "2021/learn-in-public.html"
+  },
+  {
+    "title": "How I Built a Learning Machine",
+    "link": "2021/how-i-built-a-learning-machine.html"
+  },
+  {
+    "title": "How I Am So Productive",
+    "link": "2021/how-i-am-so-productive.html"
+  },
+  {
+    "title": "2021 年第 20 周问题汇总",
+    "link": "2021/question-2021-20.html"
+  },
+  {
+    "title": "2021 年第 19 周问题汇总",
+    "link": "2021/question-2021-19.html"
   },
   {
     "title": "2021 年第 20 周总结",
@@ -630,6 +698,10 @@
   {
     "title": "师说",
     "link": "2021/hanyu-shishuo.html"
+  },
+  {
+    "title": "2021 年第 18 周问题汇总",
+    "link": "2021/question-2021-18.html"
   },
   {
     "title": "2021-19",
@@ -650,6 +722,22 @@
   {
     "title": "出游记",
     "link": "2021/chu-you-ji.html"
+  },
+  {
+    "title": "爱乐之城",
+    "link": "2021/la-la-land.html"
+  },
+  {
+    "title": "2021 年第 16 周问题汇总",
+    "link": "2021/question-2021-16.html"
+  },
+  {
+    "title": "2021 年第 15 周问题汇总",
+    "link": "2021/question-2021-15.html"
+  },
+  {
+    "title": "Programmers' Manifesto(宣言)",
+    "link": "2021/programmers-manifesto.html"
   },
   {
     "title": "闹海",
@@ -680,8 +768,20 @@
     "link": "2021/haoel-time-management-1.html"
   },
   {
+    "title": "2021 年第 14 周问题汇总",
+    "link": "2021/question-2021-14.html"
+  },
+  {
     "title": "一枚书签",
     "link": "2021/bookmark.html"
+  },
+  {
+    "title": "为什么每天都那么累？",
+    "link": "2021/mr-l-said-why-are-you-so-tired-every-day.html"
+  },
+  {
+    "title": "2021 年第 13 周问题汇总",
+    "link": "2021/question-2021-13.html"
   },
   {
     "title": "如何有效整理信息",
@@ -690,6 +790,10 @@
   {
     "title": "毕业演讲",
     "link": "2021/a-speech-on-graduation.html"
+  },
+  {
+    "title": "2021 年第 12 周问题汇总",
+    "link": "2021/question-2021-12.html"
   },
   {
     "title": "比海更深（海よりもまだ深く）",
@@ -708,12 +812,36 @@
     "link": "2021/hello-lihuanying.html"
   },
   {
+    "title": "玩是生活的补充，学习是生活的一部分",
+    "link": "2021/play-and-study.html"
+  },
+  {
     "title": "基础是基础",
     "link": "2021/emphasizing-basic.html"
   },
   {
+    "title": "问题不是问题",
+    "link": "2021/question-is-not-question.html"
+  },
+  {
+    "title": "2021 年第 11 周问题汇总",
+    "link": "2021/question-2021-11.html"
+  },
+  {
+    "title": "2021 年第 10 周问题汇总",
+    "link": "2021/question-2021-10.html"
+  },
+  {
+    "title": "2021 年第 9 周问题汇总",
+    "link": "2021/question-2021-9.html"
+  },
+  {
     "title": "前方",
     "link": "2021/the-front.html"
+  },
+  {
+    "title": "2021 年第 8 周问题汇总",
+    "link": "2021/question-2021-8.html"
   },
   {
     "title": "How to be a Programmer 中文版",
@@ -728,8 +856,36 @@
     "link": "2021/about-good-posts.html"
   },
   {
+    "title": "2021 年第 7 周问题汇总",
+    "link": "2021/question-2021-7.html"
+  },
+  {
+    "title": "我在高维世界",
+    "link": "2021/im-in-a-high-dimensional-world.html"
+  },
+  {
+    "title": "Hugo 置顶博客",
+    "link": "2021/hugo-top-a-post.html"
+  },
+  {
     "title": "永恒的终结",
     "link": "2021/asimov-the-end-of-eternity.html"
+  },
+  {
+    "title": "Hugo 内链当前标签页打开，外链新标签页打开",
+    "link": "2021/hugo-open-internal-links-in-same-tab-external-links-in-new-tab.html"
+  },
+  {
+    "title": "如何阅读一本书",
+    "link": "2021/how-to-read-a-book.html"
+  },
+  {
+    "title": "盗梦空间",
+    "link": "2021/inception.html"
+  },
+  {
+    "title": "2021 年第 6 周问题汇总",
+    "link": "2021/question-2021-6.html"
   },
   {
     "title": "2021-07",
@@ -740,8 +896,40 @@
     "link": "2021/asimov-the-intelligent-mans-guide-to-science.html"
   },
   {
+    "title": "2021 年第 5 周问题汇总",
+    "link": "2021/question-2021-5.html"
+  },
+  {
+    "title": "吉祥如意——大鹏",
+    "link": "2021/ji-xiang-ru-yi-da-peng.html"
+  },
+  {
     "title": "不要限制自己",
     "link": "2021/do-not-limit-yourself.html"
+  },
+  {
+    "title": "从先行后知到先知后行",
+    "link": "2021/prophecy-before-action-prophecy-after-action.html"
+  },
+  {
+    "title": "Night（夜）",
+    "link": "2021/night-painting.html"
+  },
+  {
+    "title": "我的编程经历——Randy's Blog",
+    "link": "2021/my-coding-road-randy.html"
+  },
+  {
+    "title": "体检项目",
+    "link": "2021/medical-examinations.html"
+  },
+  {
+    "title": "借钱",
+    "link": "2021/lend-me-money.html"
+  },
+  {
+    "title": "明白老师的分享逻辑",
+    "link": "2021/mingbai-de-sharing-logic.html"
   },
   {
     "title": "IMAP 和 POP3 有什么区别？",
@@ -752,8 +940,28 @@
     "link": "2021/design-my-own-logo.html"
   },
   {
+    "title": "2021 年第 4 周问题汇总",
+    "link": "2021/question-2021-4.html"
+  },
+  {
     "title": "为 GitHub 主页添加「年进度」和「最近更新的博客文章」",
     "link": "2021/create-cool-github-profile.html"
+  },
+  {
+    "title": "刻意练习",
+    "link": "2021/peak-secrets-from-the-new-science-of-expertise.html"
+  },
+  {
+    "title": "2021 年第 3 周问题汇总",
+    "link": "2021/question-2021-3.html"
+  },
+  {
+    "title": "New York Public Library",
+    "link": "2021/new-york-public-library.html"
+  },
+  {
+    "title": "稻盛「经营十二条」",
+    "link": "2021/kazuo-inamori-twelve-management-principles.html"
   },
   {
     "title": "倾读心声",
@@ -776,8 +984,24 @@
     "link": "2021/2021-03.html"
   },
   {
+    "title": "如何编程",
+    "link": "2021/how-to-code.html"
+  },
+  {
+    "title": "如何学习",
+    "link": "2021/how-to-study.html"
+  },
+  {
     "title": "2021-02",
     "link": "2021/2021-02.html"
+  },
+  {
+    "title": "地球上的星星",
+    "link": "2021/like-stars-on-earth.html"
+  },
+  {
+    "title": "工作还是考研？",
+    "link": "2021/job-and-npee.html"
   },
   {
     "title": "2020 年终总结",
@@ -788,12 +1012,44 @@
     "link": "2020/frankenstein.html"
   },
   {
+    "title": "沉思录 201228",
+    "link": "2020/meditation-201228.html"
+  },
+  {
     "title": "2020-52",
     "link": "2020/2020-52.html"
   },
   {
+    "title": "沉思录 201224",
+    "link": "2020/meditation-201224.html"
+  },
+  {
+    "title": "沉思录 201223",
+    "link": "2020/meditation-201223.html"
+  },
+  {
     "title": "2020-51",
     "link": "2020/2020-51.html"
+  },
+  {
+    "title": "沉思录 201219",
+    "link": "2020/meditation-201219.html"
+  },
+  {
+    "title": "沉思录 201218",
+    "link": "2020/meditation-201218.html"
+  },
+  {
+    "title": "沉思录 201216",
+    "link": "2020/meditation-201216.html"
+  },
+  {
+    "title": "沉思录 201215",
+    "link": "2020/meditation-201215.html"
+  },
+  {
+    "title": "为自己制作 now 页面",
+    "link": "2020/now.html"
   },
   {
     "title": "奇怪",
@@ -804,20 +1060,56 @@
     "link": "2020/get-github-stars.html"
   },
   {
+    "title": "布达佩斯大饭店",
+    "link": "2020/the-grand-budapest-hotel.html"
+  },
+  {
+    "title": "黄金三镖客",
+    "link": "2020/good-bad-and-ugly.html"
+  },
+  {
+    "title": "大都会",
+    "link": "2020/metoroporisu.html"
+  },
+  {
     "title": "大逃杀（バトル・ロワイアル）",
     "link": "2020/battle-royale.html"
+  },
+  {
+    "title": "完美陌生人",
+    "link": "2020/perfect-strangers.html"
+  },
+  {
+    "title": "两杆大烟枪",
+    "link": "2020/lock-stock-and-two-smoking-barrels.html"
   },
   {
     "title": "给自己的一封信",
     "link": "2020/a-letter-to-myself.html"
   },
   {
+    "title": "七武士",
+    "link": "2020/seven-samurai.html"
+  },
+  {
+    "title": "教授与疯子",
+    "link": "2020/professor-and-madman.html"
+  },
+  {
     "title": "2020-46",
     "link": "2020/2020-46.html"
   },
   {
+    "title": "钢琴家",
+    "link": "2020/the-pianist.html"
+  },
+  {
     "title": "美丽心灵（A Beautiful Mind）",
     "link": "2020/a-beautiful-mind.html"
+  },
+  {
+    "title": "萨利机长",
+    "link": "2020/sully.html"
   },
   {
     "title": "完美的世界（A Perfect World）",
@@ -832,44 +1124,256 @@
     "link": "2020/2020-45.html"
   },
   {
+    "title": "歌剧魅影",
+    "link": "2020/the-phantom-of-the-opera.html"
+  },
+  {
+    "title": "酒神小姐",
+    "link": "2020/the-bacchus-lady.html"
+  },
+  {
+    "title": "午夜狂奔",
+    "link": "2020/midnight-run.html"
+  },
+  {
+    "title": "沉思录 201105",
+    "link": "2020/meditation-201105.html"
+  },
+  {
+    "title": "沉思录 201102",
+    "link": "2020/meditation-201102.html"
+  },
+  {
+    "title": "老师，您好",
+    "link": "2020/hello-teacher.html"
+  },
+  {
+    "title": "沉思录 201101",
+    "link": "2020/meditation-201101.html"
+  },
+  {
     "title": "2020-44",
     "link": "2020/2020-44.html"
+  },
+  {
+    "title": "沉思录 201031",
+    "link": "2020/meditation-201031.html"
+  },
+  {
+    "title": "沉思录 201028",
+    "link": "2020/meditation-201028.html"
+  },
+  {
+    "title": "沉思录 201027",
+    "link": "2020/meditation-201027.html"
+  },
+  {
+    "title": "沉思录 201026",
+    "link": "2020/meditation-201026.html"
+  },
+  {
+    "title": "情书",
+    "link": "2020/love-letter.html"
+  },
+  {
+    "title": "沉思录 201025",
+    "link": "2020/meditation-201025.html"
+  },
+  {
+    "title": "寂静人生",
+    "link": "2020/still-life.html"
   },
   {
     "title": "2020-43",
     "link": "2020/2020-43.html"
   },
   {
+    "title": "沉思录 201024",
+    "link": "2020/meditation-201024.html"
+  },
+  {
     "title": "晨曦，落叶🍂",
     "link": "2020/sun-and-leaves.html"
+  },
+  {
+    "title": "沉思录 201023",
+    "link": "2020/meditation-201023.html"
+  },
+  {
+    "title": "沉思录 201022",
+    "link": "2020/meditation-201022.html"
   },
   {
     "title": "一个叫欧维的男人决定去死（电影）",
     "link": "2020/en-man-som-heter-ove.html"
   },
   {
+    "title": "沉思录 201021",
+    "link": "2020/meditation-201021.html"
+  },
+  {
+    "title": "原始星球",
+    "link": "2020/la-planète-sauvage.html"
+  },
+  {
     "title": "同等族群",
     "link": "2020/equals.html"
+  },
+  {
+    "title": "我们的世界",
+    "link": "2020/the-world-of-us.html"
+  },
+  {
+    "title": "沉思录 201020",
+    "link": "2020/meditation-201020.html"
+  },
+  {
+    "title": "沉思录 201019",
+    "link": "2020/meditation-201019.html"
+  },
+  {
+    "title": "悟",
+    "link": "2020/wu.html"
+  },
+  {
+    "title": "天堂电影院",
+    "link": "2020/nuovo-cinema-paradiso.html"
   },
   {
     "title": "2020-42",
     "link": "2020/2020-42.html"
   },
   {
+    "title": "沉思录 201018",
+    "link": "2020/meditation-201018.html"
+  },
+  {
+    "title": "沉思录 201017",
+    "link": "2020/meditation-201017.html"
+  },
+  {
+    "title": "沉思录 201016",
+    "link": "2020/meditation-201016.html"
+  },
+  {
+    "title": "沉思录 201015",
+    "link": "2020/meditation-201015.html"
+  },
+  {
     "title": "饥饿站台",
     "link": "2020/ei-hoyo.html"
+  },
+  {
+    "title": "生死时速",
+    "link": "2020/speed.html"
+  },
+  {
+    "title": "沉思录 201014",
+    "link": "2020/meditation-201014.html"
+  },
+  {
+    "title": "沉思录 201013",
+    "link": "2020/meditation-201013.html"
+  },
+  {
+    "title": "沉思录 201012",
+    "link": "2020/meditation-201012.html"
+  },
+  {
+    "title": "沉思录 201011",
+    "link": "2020/meditation-201011.html"
+  },
+  {
+    "title": "天使爱美丽",
+    "link": "2020/le-fabuleux.html"
   },
   {
     "title": "2020-41",
     "link": "2020/2020-41.html"
   },
   {
+    "title": "沉思录 201010",
+    "link": "2020/meditation-201010.html"
+  },
+  {
+    "title": "沉思录 201009",
+    "link": "2020/meditation-201009.html"
+  },
+  {
+    "title": "沉思录 201008",
+    "link": "2020/meditation-201008.html"
+  },
+  {
+    "title": "沉思录 201007",
+    "link": "2020/meditation-201007.html"
+  },
+  {
+    "title": "沉思录 201006",
+    "link": "2020/meditation-201006.html"
+  },
+  {
+    "title": "沉思录 201005",
+    "link": "2020/meditation-201005.html"
+  },
+  {
+    "title": "沉思录 201004",
+    "link": "2020/meditation-201004.html"
+  },
+  {
     "title": "2020-40",
     "link": "2020/2020-40.html"
   },
   {
+    "title": "沉思录 201003",
+    "link": "2020/meditation-201003.html"
+  },
+  {
+    "title": "沉思录 201002",
+    "link": "2020/meditation-201002.html"
+  },
+  {
+    "title": "生活由一次又一次的选择组成",
+    "link": "2020/life-is-made-of-choices.html"
+  },
+  {
+    "title": "沉思录 201001",
+    "link": "2020/meditation-201001.html"
+  },
+  {
+    "title": "沉思录 200930",
+    "link": "2020/meditation-200930.html"
+  },
+  {
+    "title": "沉思录 200929",
+    "link": "2020/meditation-200929.html"
+  },
+  {
+    "title": "沉思录 200928",
+    "link": "2020/meditation-200928.html"
+  },
+  {
     "title": "2020-39",
     "link": "2020/2020-39.html"
+  },
+  {
+    "title": "沉思录 200927",
+    "link": "2020/meditation-200927.html"
+  },
+  {
+    "title": "一眼望到头",
+    "link": "2020/yi-yan-wang-dao-tou.html"
+  },
+  {
+    "title": "停更公众号，重获新生",
+    "link": "2020/stop-writing-official-account-posts-regain-a-new-life.html"
+  },
+  {
+    "title": "香水",
+    "link": "2020/perfume.html"
+  },
+  {
+    "title": "一个问题，十年后解答",
+    "link": "2020/one-problem-answer-it-until-ten-years-later.html"
   },
   {
     "title": "2020-38",
@@ -904,12 +1408,32 @@
     "link": "2020/2020-35.html"
   },
   {
+    "title": "宿管阿姨，你好",
+    "link": "2020/hello-auntie.html"
+  },
+  {
+    "title": "未麻的部屋",
+    "link": "2020/perfect-blue.html"
+  },
+  {
     "title": "2020-34",
     "link": "2020/2020-34.html"
   },
   {
+    "title": "因为看《堤（1962）》做的一场梦",
+    "link": "2020/watch-di.html"
+  },
+  {
+    "title": "堤",
+    "link": "2020/the-pier.html"
+  },
+  {
     "title": "2020-32",
     "link": "2020/2020-32.html"
+  },
+  {
+    "title": "裂碗",
+    "link": "2020/a-broken-bowl.html"
   },
   {
     "title": "2020-31",
@@ -920,28 +1444,72 @@
     "link": "2020/2020-30.html"
   },
   {
+    "title": "漫谈电影和其他",
+    "link": "2020/talk-about-film-and-others.html"
+  },
+  {
     "title": "2020-29",
     "link": "2020/2020-29.html"
+  },
+  {
+    "title": "一九八四",
+    "link": "2020/nineteen-eighty-four.html"
+  },
+  {
+    "title": "程序员修炼之道",
+    "link": "2020/the-pragmatic-programmer.html"
   },
   {
     "title": "2020-28",
     "link": "2020/2020-28.html"
   },
   {
+    "title": "我不是好孩子，但我尽量不做坏孩子",
+    "link": "2020/try-not-to-be-a-bad-boy.html"
+  },
+  {
     "title": "2020-27",
     "link": "2020/2020-27.html"
+  },
+  {
+    "title": "找寻真知的路漫长而艰辛",
+    "link": "2020/look-for-real-knowledge.html"
   },
   {
     "title": "2020-26",
     "link": "2020/2020-26.html"
   },
   {
+    "title": "丢一部手机收获的哲理",
+    "link": "2020/philosophy-of-losing-a-mobile-phone.html"
+  },
+  {
+    "title": "你会在 20 岁时死去",
+    "link": "2020/you-will-die-at-20.html"
+  },
+  {
     "title": "2020-25",
     "link": "2020/2020-25.html"
   },
   {
+    "title": "西南联大",
+    "link": "2020/national-southwestern-associated-university.html"
+  },
+  {
+    "title": "一首小夜曲",
+    "link": "2020/little-nights-little-love.html"
+  },
+  {
+    "title": "人间",
+    "link": "2020/wangfei-world.html"
+  },
+  {
     "title": "一场梦",
     "link": "2020/a-dream.html"
+  },
+  {
+    "title": "写作——增加生命的厚度",
+    "link": "2020/writing-increase-thickness-of-life.html"
   },
   {
     "title": "212 号房间（Chambre 212）",
@@ -952,8 +1520,36 @@
     "link": "2020/2020-24.html"
   },
   {
+    "title": "我到今天才意识到自己是一个极其无用的人",
+    "link": "2020/i-am-useless.html"
+  },
+  {
     "title": "为本地添加多个 GitHub 账户",
     "link": "2020/add-multiple-github-accounts.html"
+  },
+  {
+    "title": "重启",
+    "link": "2020/rebooted.html"
+  },
+  {
+    "title": "中國的政治、宗教與自由",
+    "link": "2020/xingfuzeng-china-de-politics-religion-freedom.html"
+  },
+  {
+    "title": "大多数技术内容都是废话",
+    "link": "2020/most-tech-content-is-bullshit.html"
+  },
+  {
+    "title": "配置 Hugo 主题 Meme",
+    "link": "2020/hugo-theme-meme-configuration.html"
+  },
+  {
+    "title": "海蒂和爷爷",
+    "link": "2020/heidi.html"
+  },
+  {
+    "title": "我遇见一只精灵",
+    "link": "2020/meet-an-elf.html"
   },
   {
     "title": "2020-23",
@@ -964,12 +1560,20 @@
     "link": "2020/everyone-can-use-english.html"
   },
   {
+    "title": "薛兆丰经济学讲义",
+    "link": "2020/xuezhaofeng-economics-lectures.html"
+  },
+  {
     "title": "2020-22",
     "link": "2020/2020-22.html"
   },
   {
     "title": "死亡诗社（Dead Poets Society）",
     "link": "2020/dead-poets-society.html"
+  },
+  {
+    "title": "回家割麦子记事",
+    "link": "2020/cut-wheat.html"
   },
   {
     "title": "光明在哪里",
@@ -980,8 +1584,60 @@
     "link": "2020/capernaum.html"
   },
   {
+    "title": "由洗洁精产生的白色漩涡",
+    "link": "2020/white-vortex-produced-by-dishwashing-liquid.html"
+  },
+  {
+    "title": "一块肉掉在地上，你会怎么做？",
+    "link": "2019/how-do-you-like-the-meat-on-the-ground.html"
+  },
+  {
     "title": "大象席地而坐（电影）",
     "link": "2020/an-elephant-sitting-still.html"
+  },
+  {
+    "title": "我喜欢梦里的一个女孩",
+    "link": "2020/like-girl-in-dream.html"
+  },
+  {
+    "title": "三体",
+    "link": "2020/three-body.html"
+  },
+  {
+    "title": "这是个光怪陆离的世界",
+    "link": "2020/this-is-ridiculous-world.html"
+  },
+  {
+    "title": "寄生虫",
+    "link": "2020/parasite.html"
+  },
+  {
+    "title": "少年的你",
+    "link": "2020/better-days.html"
+  },
+  {
+    "title": "来自深渊：启程的黎明",
+    "link": "2020/made-in-abyss-journeys-dawn.html"
+  },
+  {
+    "title": "利刃出鞘",
+    "link": "2020/knives-out.html"
+  },
+  {
+    "title": "光猫 LOS 红灯闪烁，PON 灯不亮",
+    "link": "2020/modem-los-red-lights-flashing-pon-lights-not-on.html"
+  },
+  {
+    "title": "真心半解",
+    "link": "2020/the-half-of-it.html"
+  },
+  {
+    "title": "谈用眼健康",
+    "link": "2020/eye-health.html"
+  },
+  {
+    "title": "Hugo 目录和音乐播放器 APlayer 的冲突问题",
+    "link": "2020/hugo-toc-conflicts-with-aplayer.html"
   },
   {
     "title": "未来世界的幸存者",
@@ -992,32 +1648,284 @@
     "link": "2020/common-mirror-list.html"
   },
   {
+    "title": "使用 robots.txt",
+    "link": "2020/robots-txt.html"
+  },
+  {
+    "title": "无姓之人",
+    "link": "2020/mr-nobody.html"
+  },
+  {
+    "title": "Hugo 主题及多语言图标不能在 Linux Chrome 中正常显示",
+    "link": "2020/hugo-theme-and-multilingual-cannot-display-on-linux-chrome.html"
+  },
+  {
+    "title": "标准之外",
+    "link": "2020/hors-normes.html"
+  },
+  {
+    "title": "Hugo 设置 shortcode",
+    "link": "2020/hugo-set-shortcode.html"
+  },
+  {
+    "title": "时间之书",
+    "link": "2020/the-book-of-time.html"
+  },
+  {
     "title": "鸟哥的 Linux 私房菜",
     "link": "2020/birdman-linux.html"
+  },
+  {
+    "title": "使用 DocToc 自动生成文档目录",
+    "link": "2020/doctoc-generate-toc.html"
+  },
+  {
+    "title": "Markdown 使用语法",
+    "link": "2020/markdown-usage-syntax.html"
+  },
+  {
+    "title": "Hugo 没有安装扩展版产生的问题",
+    "link": "2020/hugo-problems-with-no-extended.html"
+  },
+  {
+    "title": "Hugo 移动端不能正常显示多语言图标",
+    "link": "2020/hugo-multilingual-icon-cannot-display.html"
+  },
+  {
+    "title": "Hugo 图片居中",
+    "link": "2020/hugo-center-picture.html"
+  },
+  {
+    "title": "把糟粕丢弃，把珍珠拾起",
+    "link": "2020/pick-up-the-pearls.html"
+  },
+  {
+    "title": "未选择的路",
+    "link": "2020/the-road-not-taken.html"
   },
   {
     "title": "不必彷徨，放手去做",
     "link": "2020/donot-hesitate-just-do-it.html"
   },
   {
+    "title": "知道自己喜欢什么很简单，知道自己不喜欢什么却很难",
+    "link": "2020/easy-to-know-what-you-like.html"
+  },
+  {
+    "title": "久坐伤身",
+    "link": "2020/sedentary-injury.html"
+  },
+  {
+    "title": "使用 npm",
+    "link": "2020/npm.html"
+  },
+  {
     "title": "为终端配置代理",
     "link": "2020/configure-proxy-for-terminal.html"
+  },
+  {
+    "title": "谈谈批判性思考",
+    "link": "2020/talk-about-critical-thinking.html"
+  },
+  {
+    "title": "坚持下来，一定会有结果",
+    "link": "2020/persevere-there-will-be-results.html"
+  },
+  {
+    "title": "自我本我超我",
+    "link": "2020/self-self-superego.html"
+  },
+  {
+    "title": "今日学习总结与编程方向规划",
+    "link": "2020/todays-learning-summary-and-programming-direction-planning.html"
+  },
+  {
+    "title": "求同存异",
+    "link": "2020/seeking-common-ground-while.html"
+  },
+  {
+    "title": "孩子，你应该为你的身边人想想",
+    "link": "2020/think-about-parents.html"
+  },
+  {
+    "title": "究竟什么才是真实",
+    "link": "2020/what-is-real.html"
+  },
+  {
+    "title": "记下困惑",
+    "link": "2020/write-down-the-confusion.html"
+  },
+  {
+    "title": "今日记事",
+    "link": "2020/today-note.html"
   },
   {
     "title": "恐惧能使人死亡",
     "link": "2020/fear-can-kill-people.html"
   },
   {
+    "title": "论心",
+    "link": "2020/say-about-heart.html"
+  },
+  {
+    "title": "一荤一素与恋爱长跑指北",
+    "link": "2020/one-meat-one-element-and-love-long-distance-guide.html"
+  },
+  {
+    "title": "看电影也是一种观察世界的方式",
+    "link": "2020/watching-movies-is-way-to-observe-world.html"
+  },
+  {
+    "title": "任务驱动",
+    "link": "2020/mission-driven.html"
+  },
+  {
+    "title": "“因为你的善行，这些生命得以传承下去”",
+    "link": "2020/watch-schindlers-list.html"
+  },
+  {
+    "title": "辛德勒的名单",
+    "link": "2020/schindlers-list.html"
+  },
+  {
+    "title": "最真实的事情往往很残酷",
+    "link": "2020/most-real-things-are-often-cruel.html"
+  },
+  {
     "title": "人生在世，做好自己",
     "link": "2020/be-alive-and-be-yourself.html"
+  },
+  {
+    "title": "头痛反复，反复头痛",
+    "link": "2020/repeated-headache.html"
+  },
+  {
+    "title": "梁漱溟：学问的八层境界",
+    "link": "2020/liang-shuming-eight-levels-of-learning.html"
+  },
+  {
+    "title": "有愿景，有路线，大事可成",
+    "link": "2020/have-something-accomplish-thing.html"
+  },
+  {
+    "title": "文字运用改良",
+    "link": "2020/improved-text-usage.html"
   },
   {
     "title": "动画做得最好的就是吉卜力工作室",
     "link": "2020/ghibli-studio.html"
   },
   {
+    "title": "人话",
+    "link": "2020/human-words.html"
+  },
+  {
+    "title": "知识星球逐渐冷清有感",
+    "link": "2020/words-about-knowledge-planet.html"
+  },
+  {
+    "title": "拉多之星",
+    "link": "2020/la-duo-zhi-xing.html"
+  },
+  {
+    "title": "越来越能体会程序员的辛苦",
+    "link": "2020/understand-programmers.html"
+  },
+  {
+    "title": "好与坏全在于自己的想法",
+    "link": "2020/good-and-bad-are-all-in-your-own-thoughts.html"
+  },
+  {
+    "title": "当你想批评别人的时候……",
+    "link": "2020/when-you-want-to-criticize-others.html"
+  },
+  {
+    "title": "不要做超出你能力的计划和不要设限",
+    "link": "2020/not-set-limit.html"
+  },
+  {
+    "title": "心心念念，终不得所",
+    "link": "2020/cannot-calm.html"
+  },
+  {
+    "title": "时间伤痕之外",
+    "link": "2020/beyond-scars-of-time.html"
+  },
+  {
+    "title": "什锦拼盘",
+    "link": "2020/shi-jin-pin-pan.html"
+  },
+  {
+    "title": "愿善意永驻",
+    "link": "2020/may-goodwill-stay-forever.html"
+  },
+  {
+    "title": "丢掉细节的话总是正确的",
+    "link": "2020/its-always-correct-if-you-lose-the-details.html"
+  },
+  {
+    "title": "努力的方向不对",
+    "link": "2020/wrong-direction.html"
+  },
+  {
+    "title": "这算又溜走了一日",
+    "link": "2020/one-day-passed.html"
+  },
+  {
+    "title": "没有人会为你的进步喝彩",
+    "link": "2020/no-one-applaud-your-progress.html"
+  },
+  {
+    "title": "烦躁的时候多听歌",
+    "link": "2020/listen-to-songs-when-you-are-upset.html"
+  },
+  {
+    "title": "瑞雪兆丰年",
+    "link": "2020/seasonable-snow-gives-fruitful-year.html"
+  },
+  {
+    "title": "国王出巡",
+    "link": "2020/king-out.html"
+  },
+  {
+    "title": "另一个我",
+    "link": "2020/another-me.html"
+  },
+  {
     "title": "过年回家找爸妈",
     "link": "2020/go-home-to-find-parents.html"
+  },
+  {
+    "title": "记第一次来北京",
+    "link": "2020/first-time-in-beijing.html"
+  },
+  {
+    "title": "期末考试结束，假期开始",
+    "link": "2020/final-exam-ends-holiday-starts.html"
+  },
+  {
+    "title": "试验有试验的价值",
+    "link": "2020/valuable-tests.html"
+  },
+  {
+    "title": "量化标准评判自我",
+    "link": "2020/quantitative-standards-judge-self.html"
+  },
+  {
+    "title": "今天没有什么不同",
+    "link": "2020/today-is-no-different.html"
+  },
+  {
+    "title": "侧耳倾听",
+    "link": "2020/whisper-of-the-heart.html"
+  },
+  {
+    "title": "前进的最好方法就是试错",
+    "link": "2020/best-way-to-make-progress-is-making-mistake.html"
+  },
+  {
+    "title": "哈尔的移动城堡",
+    "link": "2020/howls-moving-castle.html"
   },
   {
     "title": "2019 年终总结",
@@ -1032,6 +1940,10 @@
     "link": "2019/everything-will-end-well.html"
   },
   {
+    "title": "好好学习就是为了谈恋爱",
+    "link": "2019/study-hard-is-to-fall-in-love.html"
+  },
+  {
     "title": "交流，满足，积累，作业",
     "link": "2019/communication-satisfaction-accumulation-homework.html"
   },
@@ -1040,12 +1952,28 @@
     "link": "2019/compliments-from-others-can-be-fatal.html"
   },
   {
+    "title": "群聊是毫无必要的",
+    "link": "2019/group-chat-is-unnecessary.html"
+  },
+  {
     "title": "遥远的救世主",
     "link": "2019/distant-savior.html"
   },
   {
+    "title": "谈谈这一年的变化",
+    "link": "2019/talk-about-the-changes-in-this-year.html"
+  },
+  {
+    "title": "我开始写博客了",
+    "link": "2019/i-started-blogging.html"
+  },
+  {
     "title": "文化价值观和自尊",
     "link": "2019/cultural-values-and-self-esteem.html"
+  },
+  {
+    "title": "如果一个孩子摔倒了就不再学走路，他将永远不会走路",
+    "link": "2019/child-falls-down-no-longer-learns-to-walk-he-will-never-walk.html"
   },
   {
     "title": "些许烦忧",
@@ -1056,68 +1984,340 @@
     "link": "2019/anxious-person.html"
   },
   {
+    "title": "写下顾虑，并把它说给自己听",
+    "link": "2019/write-down-concerns-and-talk-to-myself.html"
+  },
+  {
+    "title": "把自己理解的东西讲给别人听",
+    "link": "2019/tell-others-what-i-understand.html"
+  },
+  {
+    "title": "六级考试没带涂卡笔",
+    "link": "2019/cet6-no-pen.html"
+  },
+  {
     "title": "做有价值的事情",
     "link": "2019/do-valuable-things.html"
+  },
+  {
+    "title": "人的生命只有一次，你不要让它被平庸占据",
+    "link": "2019/human-life-is-only-once.html"
+  },
+  {
+    "title": "阶段感悟",
+    "link": "2019/stage-perception.html"
+  },
+  {
+    "title": "自我否定会降低成就感",
+    "link": "2019/self-denial-reduces-sense-of-accomplishment.html"
+  },
+  {
+    "title": "保持信心，认清现实",
+    "link": "2019/maintain-confidence-and-recognize-reality.html"
   },
   {
     "title": "每一个人都是一个多面手",
     "link": "2019/everyone-is-a-generalist.html"
   },
   {
+    "title": "攻壳机动队 2：无罪",
+    "link": "2019/ghost-in-the-shell-2-innocence.html"
+  },
+  {
     "title": "不必因为贪玩而后悔",
     "link": "2019/donot-have-to-regret-it-for-fun.html"
+  },
+  {
+    "title": "时常以局外人的角度观察自己",
+    "link": "2019/observe-yourself-from-perspective-of-outsiders.html"
   },
   {
     "title": "深度拖延者报道",
     "link": "2019/deep-procrastinator-report.html"
   },
   {
+    "title": "大多数人在还不会游泳之前都不会想游泳",
+    "link": "2019/most-people-donot-want-to-swim-until-they-can-swim.html"
+  },
+  {
+    "title": "你的第一本哲学书",
+    "link": "2019/what-does-it-all-mean.html"
+  },
+  {
     "title": "不要对自己期待过高",
     "link": "2019/donot-expect-too-much-from-yourself.html"
+  },
+  {
+    "title": "过于喧嚣的孤独",
+    "link": "2019/too-loud-a-solitude.html"
+  },
+  {
+    "title": "夜晚总是如此美好，白天努力工作的我们不舍入眠",
+    "link": "2019/night-is-beautiful-we-do-not-sleep.html"
   },
   {
     "title": "不要坚持，要习惯",
     "link": "2019/donot-insist-get-used-to-it.html"
   },
   {
+    "title": "你只是没那么自信而已",
+    "link": "2019/you-are-just-not-so-confident.html"
+  },
+  {
+    "title": "记录第一次在晚上玩轮滑",
+    "link": "2019/first-time-play-roller-skating.html"
+  },
+  {
     "title": "一个女人一生中的二十四小时",
     "link": "2019/24-hours-in-the-life-of-a-woman.html"
+  },
+  {
+    "title": "情绪是我们前进的附庸",
+    "link": "2019/emotions-are-our-vassals.html"
+  },
+  {
+    "title": "中途岛之战",
+    "link": "2019/midway.html"
+  },
+  {
+    "title": "一件小事引起的三点思考",
+    "link": "2019/thoughts-caused-by-matter.html"
+  },
+  {
+    "title": "心灵捕手",
+    "link": "2019/good-will-hunting.html"
+  },
+  {
+    "title": "写作是要从生活中汲取养分的",
+    "link": "2019/writing-is-to-draw-nutrients-from-life.html"
   },
   {
     "title": "恍惚人间",
     "link": "2019/huang-hu-ren-jian.html"
   },
   {
+    "title": "路慢慢儿修远兮",
+    "link": "2019/the-road-is-slow.html"
+  },
+  {
+    "title": "远山人家",
+    "link": "2019/yuanshan-people.html"
+  },
+  {
+    "title": "前目的地",
+    "link": "2019/predestination.html"
+  },
+  {
+    "title": "当你真正开启一件事情的时候",
+    "link": "2019/when-you-really-start-something.html"
+  },
+  {
+    "title": "千言万语说不出口",
+    "link": "2019/cannot-say.html"
+  },
+  {
+    "title": "今夜我无眠，只为思念",
+    "link": "2019/i-havenot-slept-tonight-just-thinking-of-you.html"
+  },
+  {
+    "title": "我们真的是在做一件事情吗",
+    "link": "2019/are-we-really-doing-something.html"
+  },
+  {
+    "title": "在我的身上终于发生了一件不平事",
+    "link": "2019/injustice-happened-to-me.html"
+  },
+  {
+    "title": "走在阳光下面，内心独自彷徨",
+    "link": "2019/walking-under-the-sun-hesitating-alone.html"
+  },
+  {
     "title": "今天的图书馆人很少，适合看书",
     "link": "2019/few-people-in-library-suitable-for-reading.html"
+  },
+  {
+    "title": "随手记 c",
+    "link": "2019/notes-about-life-2.html"
+  },
+  {
+    "title": "街角馄饨香",
+    "link": "2019/corner-wonton.html"
   },
   {
     "title": "红楼梦",
     "link": "2019/dream-of-the-red-chamber.html"
   },
   {
+    "title": "好奇心用好是个宝",
+    "link": "2019/curiosity-is-a-treasure.html"
+  },
+  {
+    "title": "知识泡沫",
+    "link": "2019/knowledge-bubble.html"
+  },
+  {
+    "title": "繁华过后只剩孤人",
+    "link": "2019/after-the-prosperity-only-orphans.html"
+  },
+  {
+    "title": "我重装得了系统，但我重启不了人生",
+    "link": "2019/reinstall-system-canot-restart-my-life.html"
+  },
+  {
     "title": "不迷茫手册",
     "link": "2019/not-confused-manual.html"
+  },
+  {
+    "title": "对不起，我的线代挂了",
+    "link": "2019/failed-my-linear-algebra.html"
+  },
+  {
+    "title": "由路面上的小水洼引发的思考",
+    "link": "2019/reflections-on-the-small-puddles.html"
+  },
+  {
+    "title": "每一个人的精神孤岛终会连成一片梦的大陆",
+    "link": "2019/spiritual-island-eventually.html"
+  },
+  {
+    "title": "随手记 b",
+    "link": "2019/notes-about-life-1.html"
+  },
+  {
+    "title": "听从你心，无问西东",
+    "link": "2019/listen-to-your-heart.html"
+  },
+  {
+    "title": "日常随想——进步",
+    "link": "2019/everyday-thoughts-progress.html"
+  },
+  {
+    "title": "恍惚间，自己变化那么大",
+    "link": "2019/i-have-changed-so-much.html"
+  },
+  {
+    "title": "关于生活我有话说",
+    "link": "2019/say-about-life.html"
+  },
+  {
+    "title": "这个时代不会辜负真正的努力与才华",
+    "link": "2019/this-era-not-disappoint-real-hard-work-and-talent.html"
   },
   {
     "title": "追随自我",
     "link": "2019/follow-myself.html"
   },
   {
+    "title": "谈父亲",
+    "link": "2019/say-about-father.html"
+  },
+  {
+    "title": "黑衣人系列",
+    "link": "2019/men-in-black.html"
+  },
+  {
+    "title": "高考之后的一年，我收获了什么",
+    "link": "2019/what-i-get-after-gaokao.html"
+  },
+  {
+    "title": "谁的青春不迷茫，其实我们都一样",
+    "link": "2019/whose-youth-is-not-confused-we-are-the-same.html"
+  },
+  {
+    "title": "我是人，我也有恶的一面",
+    "link": "2019/i-am-human-and-also-have-evil-side.html"
+  },
+  {
+    "title": "我还是个孩子，不要逼我",
+    "link": "2019/i-am-still-kid-donot-force-me.html"
+  },
+  {
+    "title": "深夜无眠，写文抒情",
+    "link": "2019/sleepless-at-night-writing-to-express.html"
+  },
+  {
     "title": "你是一个有想象力的人吗？",
     "link": "2019/are-you-an-imaginative-person.html"
+  },
+  {
+    "title": "思考过的生活值得一过",
+    "link": "2019/life-you-thought-about-is-worth-living.html"
+  },
+  {
+    "title": "随手记 a",
+    "link": "2019/notes-about-life-0.html"
   },
   {
     "title": "一个男生对一个女孩的内心独白",
     "link": "2019/boy-inner-monologue-to-girl.html"
   },
   {
+    "title": "当初说好不会改变的我们都改变了",
+    "link": "2019/we-donot-want-to-change-but-all-changed.html"
+  },
+  {
+    "title": "沉思录 190514",
+    "link": "2019/meditation-190514.html"
+  },
+  {
+    "title": "人就是他所吃的东西",
+    "link": "2019/man-is-what-he-eats.html"
+  },
+  {
+    "title": "沉思录 190512",
+    "link": "2019/meditation-190512.html"
+  },
+  {
+    "title": "看见",
+    "link": "2019/see.html"
+  },
+  {
+    "title": "知道自己内心热爱",
+    "link": "2019/know-what-i-love.html"
+  },
+  {
+    "title": "回忆成人礼（还有一些同学对我的评价）",
+    "link": "2019/recall-coming-of-age.html"
+  },
+  {
+    "title": "诗，绝境，毕业，文字",
+    "link": "2019/poetry-desperation-graduation-writing.html"
+  },
+  {
     "title": "我想花时间想一件事情",
     "link": "2019/spend-time-to-think-just-one-thing.html"
   },
   {
+    "title": "摩登时代",
+    "link": "2019/modern-times.html"
+  },
+  {
+    "title": "放牛班的春天",
+    "link": "2019/les-choristes.html"
+  },
+  {
+    "title": "温一壶时光下酒",
+    "link": "2019/warm-a-pot-of-time-wine.html"
+  },
+  {
+    "title": "孤独是人生的必修课",
+    "link": "2019/loneliness-is-a-required-course-in-life.html"
+  },
+  {
+    "title": "和文字打个招呼",
+    "link": "2019/hello-text.html"
+  },
+  {
     "title": "死亡是一件不必急于求成的事",
     "link": "2019/death-is-matter-of-not-rushing-for.html"
+  },
+  {
+    "title": "高考 | 乱想",
+    "link": "2019/thought-about-gaokao-and-others.html"
+  },
+  {
+    "title": "高中重游",
+    "link": "2019/revisit-high-school.html"
   },
   {
     "title": "新年随笔",
