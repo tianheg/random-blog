@@ -1,3 +1,4 @@
+- [来自《22岁年薪150万》作者Denny的一封信](https://mp.weixin.qq.com/s/TMF1q4jhKj_I95zqmgQuCw)
 - [weekly/223.精读《Records & Tuples 提案》.md at master · ascoders/weekly](https://github.com/ascoders/weekly/blob/869135863805001d9dc573adcba9963d5bb90aa3/%E5%89%8D%E6%B2%BF%E6%8A%80%E6%9C%AF/223.%E7%B2%BE%E8%AF%BB%E3%80%8ARecords%20&%20Tuples%20%E6%8F%90%E6%A1%88%E3%80%8B.md)
 - [99 Additional Bits of Unsolicited Advice](https://kk.org/thetechnium/99-additional-bits-of-unsolicited-advice/)
 - [68 Bits of Unsolicited Advice](https://kk.org/thetechnium/68-bits-of-unsolicited-advice/)
