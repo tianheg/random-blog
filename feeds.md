@@ -1,3 +1,4 @@
+- [六个半的设计哲学 from Alex](https://mp.weixin.qq.com/s/avYa-bzd-uEjIz6rQ4GG2A)
 - [有个性的产品 Opinionated Product](https://mp.weixin.qq.com/s/la1zS9RF5C0BqLqBdo_dcQ)
 - [所有人问俞军](https://mp.weixin.qq.com/s/tD13z9FLzVyMxvAvrEEPeA)
 - [来自《22岁年薪150万》作者Denny的一封信](https://mp.weixin.qq.com/s/TMF1q4jhKj_I95zqmgQuCw)
