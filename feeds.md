@@ -1,3 +1,4 @@
+- [68 Bits of Unsolicited Advice](https://kk.org/thetechnium/68-bits-of-unsolicited-advice/)
 - [凯文凯利（KK）](https://www.notion.so/KK-817f2eb26e024cbc8e1703ff16454bad)
 - [The most counterintuitive facts in all of mathematics, computer science, and physics](https://axisofordinary.substack.com/p/the-most-counterintuitive-facts-in)
 - [My beautiful Linux development environment](https://deepu.tech/my-beautiful-linux-development-environment)
