@@ -18,6 +18,10 @@ related files: `script.js`, `blogs.json`
 - Use `jQuery` get data from JSON file
 - Use `jQuery` reload page through button
 
+## ToDo
+
+- [ ] get JSON file with pure JS
+
 ## Acknowledgement
 
 1. [How to Scrape Websites with Node.js and Cheerio](https://www.freecodecamp.org/news/how-to-scrape-websites-with-node-js-and-cheerio/)
