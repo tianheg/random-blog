@@ -1,3 +1,4 @@
+- [SSL and TLS Deployment Best Practices](https://github.com/ssllabs/research/wiki/SSL-and-TLS-Deployment-Best-Practices)
 - [回望《欲望都市》：21世纪最后的直女英雄主义 | 协同写作004](https://mp.weixin.qq.com/s/bDKW_-NkIy_MDghxvBt6XA)
 - [如何自学](https://elizen.me/posts/2021/02/what-is-learning/)
 - [软件系列之Flomo - Elizen](https://elizen.me/posts/2020/12/flomo-app/)
