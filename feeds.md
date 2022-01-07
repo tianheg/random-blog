@@ -1,3 +1,4 @@
+- [软件系列之Flomo - Elizen](https://elizen.me/posts/2020/12/flomo-app/)
 - [黄章晋 | 袁隆平神话：杂交水稻之父是怎样升起的？ - 中国数字时代](https://chinadigitaltimes.net/chinese/666255.html)
 - [Cloudflare Learning Center | Resources on cyber security and how the Internet works](https://www.cloudflare.com/learning/)
 - [💡If you aren't taking notes, stop reading // Slower process, faster progress // Healthy externalities](https://www.robfitz.com/c/writing/if-you-aren-t-taking-notes-stop-reading-slower-process-faster-progress-healthy-externalities)
