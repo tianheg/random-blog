@@ -12,6 +12,14 @@
     "title": ""
   },
   {
+    "title": "如何在 Sphinx 下使用 JSDoc",
+    "link": "2022/sphinx-jsdoc.html"
+  },
+  {
+    "title": "常用脚本",
+    "link": "2022/common-scripts.html"
+  },
+  {
     "title": "GitHub Code Search 搜索语法",
     "link": "2022/github-code-search.html"
   },
