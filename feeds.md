@@ -1,3 +1,4 @@
+- [Ten Tips For Aspiring Designer Beginners (Part 1) — Smashing Magazine](https://www.smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/)
 - [What are Fundamentals? | Arun Prasad](https://arunkprasad.com/log/what-are-fundamentals/)
 - [Go Deeper, Not Wider](https://www.raptitude.com/2017/12/go-deeper-not-wider/)
 - [SSL and TLS Deployment Best Practices](https://github.com/ssllabs/research/wiki/SSL-and-TLS-Deployment-Best-Practices)
