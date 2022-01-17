@@ -472,6 +472,10 @@
     "link": "2021/feelings-with-snow-2021.html"
   },
   {
+    "title": "人的本性即是变化",
+    "link": "2021/people-always-change.html"
+  },
+  {
     "title": "Nginx 中在 80 端口添加 HTTP/2 出现问题",
     "link": "2021/nginx-80-http2.html"
   },
@@ -482,6 +486,10 @@
   {
     "title": "降临（Arrival）",
     "link": "2021/arrival.html"
+  },
+  {
+    "title": "Vim 常用快捷键总结",
+    "link": "2021/vim-common-keyboard-shortcuts.html"
   },
   {
     "title": "Emacs 常用快捷键总结",
@@ -548,6 +556,10 @@
     "link": "2021/git-server-hook.html"
   },
   {
+    "title": "图解 HTTP",
+    "link": "2021/graphical-http.html"
+  },
+  {
     "title": "2021 年 9 月下旬总结",
     "link": "2021/2021-sept-down-summary.html"
   },
@@ -588,16 +600,32 @@
     "link": "2021/arch-installation-guide.html"
   },
   {
+    "title": "人在社会中，必须遵守社会主要约定",
+    "link": "2021/in-society-people-must-abide-by-the-main-social-agreements.html"
+  },
+  {
     "title": "Arch Linux 因卡顿回退 Linux 内核",
     "link": "2021/dg-linux-kernel-system-freeze.html"
+  },
+  {
+    "title": "人潮汹涌",
+    "link": "2021/many-people.html"
   },
   {
     "title": "2021 年第 33 周总结",
     "link": "2021/2021-33.html"
   },
   {
+    "title": "The Time Traveler's Wife",
+    "link": "2021/the-time-travelers-wife.html"
+  },
+  {
     "title": "2021 年第 32 周总结",
     "link": "2021/2021-32.html"
+  },
+  {
+    "title": "USS Indianapolis: Men of Courage",
+    "link": "2021/uss-indianapolis-men-of-courage.html"
   },
   {
     "title": "Install WordPress With LAMP",
@@ -612,6 +640,10 @@
     "link": "2021/does-theranos-mark-the-peak-of-the-silicon-valley-bubble.html"
   },
   {
+    "title": "人生苦短",
+    "link": "2021/life-is-short.html"
+  },
+  {
     "title": "2021 年第 30 周问题汇总",
     "link": "2021/question-2021-30.html"
   },
@@ -620,8 +652,24 @@
     "link": "2021/2021-30.html"
   },
   {
+    "title": "一生的味道",
+    "link": "2021/a-lifetime-of-taste.html"
+  },
+  {
     "title": "朝花夕拾",
     "link": "2021/luxun-zhaohuaxishi.html"
+  },
+  {
+    "title": "丧失写代码的激情",
+    "link": "2021/lose-love-for-coding.html"
+  },
+  {
+    "title": "为网站开启 PWA",
+    "link": "2021/pwa-for-site.html"
+  },
+  {
+    "title": "为 gatsby-theme-garden 添加代码高亮",
+    "link": "2021/add-code-highlight-for-gatsby-theme-garden.html"
   },
   {
     "title": "2021 年第 29 周问题汇总",
@@ -636,12 +684,20 @@
     "link": "2021/the-drunken-man.html"
   },
   {
+    "title": "不能说的秘密",
+    "link": "2021/secret.html"
+  },
+  {
     "title": "2021 年第 28 周总结",
     "link": "2021/2021-28.html"
   },
   {
     "title": "2021 年第 28 周问题汇总",
     "link": "2021/question-2021-28.html"
+  },
+  {
+    "title": "与人链接",
+    "link": "2021/connenting-with-people.html"
   },
   {
     "title": "闪灵 Shining",
@@ -692,12 +748,24 @@
     "link": "2021/missing-intltool.html"
   },
   {
+    "title": "The World Is Too Much With Us",
+    "link": "2021/world-too-much-us.html"
+  },
+  {
     "title": "2021 年第 22 周问题汇总",
     "link": "2021/question-2021-22.html"
   },
   {
     "title": "2021 年第 23 周总结",
     "link": "2021/2021-23.html"
+  },
+  {
+    "title": "乱世佳人",
+    "link": "2021/gone-with-the-wind.html"
+  },
+  {
+    "title": "不同年龄阶段的保险需求",
+    "link": "2021/insurance-needs-for-different-age-groups.html"
   },
   {
     "title": "8+1 框架",
@@ -712,8 +780,16 @@
     "link": "2021/2021-22.html"
   },
   {
+    "title": "什么是超级月全食",
+    "link": "2021/what-is-super-total-lunar-eclipse.html"
+  },
+  {
     "title": "2021 年第 21 周总结",
     "link": "2021/2021-21.html"
+  },
+  {
+    "title": "人体系统",
+    "link": "2021/list-of-systems-of-the-human-body.html"
   },
   {
     "title": "Learn in Public",
@@ -732,6 +808,14 @@
     "link": "2021/question-2021-20.html"
   },
   {
+    "title": "写经修行",
+    "link": "2021/yuqiuyu-xiejingxiuxing.html"
+  },
+  {
+    "title": "人生架构",
+    "link": "2021/life-structure.html"
+  },
+  {
     "title": "2021 年第 19 周问题汇总",
     "link": "2021/question-2021-19.html"
   },
@@ -742,6 +826,10 @@
   {
     "title": "了解糖尿病",
     "link": "2021/diabetes.html"
+  },
+  {
+    "title": "借我一生",
+    "link": "2021/yuqiuyu-reminiscences-and-reflections.html"
   },
   {
     "title": "师说",
@@ -764,8 +852,20 @@
     "link": "2021/ethan-hawke-ryans-song.html"
   },
   {
+    "title": "乔布斯在斯坦福大学的演讲",
+    "link": "2021/jobss-speech-at-stanford-university.html"
+  },
+  {
+    "title": "The Road to 10K",
+    "link": "2021/the-road-to-10k.html"
+  },
+  {
     "title": "2021-18",
     "link": "2021/2021-18.html"
+  },
+  {
+    "title": "余秋雨译《离骚》",
+    "link": "2021/qiu-yu-yu-translate-li-sao.html"
   },
   {
     "title": "出游记",
@@ -788,6 +888,26 @@
     "link": "2021/question-2021-15.html"
   },
   {
+    "title": "学习与人生",
+    "link": "2021/study-and-life.html"
+  },
+  {
+    "title": "你拥有“短期享乐”的能力吗？",
+    "link": "2021/capacity-for-short-term-pleasure.html"
+  },
+  {
+    "title": "“你总是要有一种好奇之心，而不是想当然”",
+    "link": "2021/curiosity-instead-of-taking-it-for-granted.html"
+  },
+  {
+    "title": "人生是不断的建构与解构",
+    "link": "2021/life-is-continuous-construction-and-deconstruction.html"
+  },
+  {
+    "title": "不确定性",
+    "link": "2021/uncertainty.html"
+  },
+  {
     "title": "Programmers' Manifesto(宣言)",
     "link": "2021/programmers-manifesto.html"
   },
@@ -808,6 +928,18 @@
     "link": "2021/breathe.html"
   },
   {
+    "title": "谁的青春不迷茫",
+    "link": "2021/whose-youth-is-not-lost.html"
+  },
+  {
+    "title": "从爱因斯坦到霍金的宇宙",
+    "link": "2021/einstein-to-hawking.html"
+  },
+  {
+    "title": "能够识别表象和本质，找工作与学习效率的联系",
+    "link": "2021/recognize-appearance-and-essence.html"
+  },
+  {
     "title": "数学的思维方式与创新",
     "link": "2021/math-think-innovate.html"
   },
@@ -820,8 +952,20 @@
     "link": "2021/haoel-time-management-1.html"
   },
   {
+    "title": "查拉图斯特拉如是说",
+    "link": "2021/thus-spoke-zarathustra.html"
+  },
+  {
+    "title": "社会心理学",
+    "link": "2021/social-psychology.html"
+  },
+  {
     "title": "2021 年第 14 周问题汇总",
     "link": "2021/question-2021-14.html"
+  },
+  {
+    "title": "心灵奇旅",
+    "link": "2021/soul.html"
   },
   {
     "title": "一枚书签",
@@ -830,6 +974,14 @@
   {
     "title": "为什么每天都那么累？",
     "link": "2021/mr-l-said-why-are-you-so-tired-every-day.html"
+  },
+  {
+    "title": "那些忧伤的年轻人",
+    "link": "2021/those-sad-young-men.html"
+  },
+  {
+    "title": "赵英俊",
+    "link": "2021/zhao-ying-jun.html"
   },
   {
     "title": "哲学地生活",
@@ -844,8 +996,16 @@
     "link": "2021/how-to-organize-information-effectively.html"
   },
   {
+    "title": "To Be or Not to Be",
+    "link": "2021/to-be-or-not-to-be.html"
+  },
+  {
     "title": "毕业演讲",
     "link": "2021/a-speech-on-graduation.html"
+  },
+  {
+    "title": "本杰明·巴顿奇事",
+    "link": "2021/the-curious-case-of-benjamin-button.html"
   },
   {
     "title": "2021 年第 12 周问题汇总",
@@ -862,6 +1022,14 @@
   {
     "title": "雨",
     "link": "2021/rain.html"
+  },
+  {
+    "title": "谈美",
+    "link": "2021/talk-about-beauty.html"
+  },
+  {
+    "title": "敏感",
+    "link": "2021/sensitive.html"
   },
   {
     "title": "蝙蝠侠系列",
@@ -888,6 +1056,10 @@
     "link": "2021/question-2021-11.html"
   },
   {
+    "title": "蜂蜜吃太多，对身体有什么影响",
+    "link": "2021/too-much-honey.html"
+  },
+  {
     "title": "2021 年第 10 周问题汇总",
     "link": "2021/question-2021-10.html"
   },
@@ -900,12 +1072,20 @@
     "link": "2021/the-front.html"
   },
   {
+    "title": "我为什么不够专注",
+    "link": "2021/why-not-concentrate.html"
+  },
+  {
     "title": "2021 年第 8 周问题汇总",
     "link": "2021/question-2021-8.html"
   },
   {
     "title": "How to be a Programmer 中文版",
     "link": "2021/how-to-be-a-programmer-zh.html"
+  },
+  {
+    "title": "史蒂夫·乔布斯传",
+    "link": "2021/steve-jobs.html"
   },
   {
     "title": "黑客与画家",
@@ -932,12 +1112,24 @@
     "link": "2021/asimov-the-end-of-eternity.html"
   },
   {
+    "title": "Steve Jobs 的话",
+    "link": "2021/words-from-steve-jobs.html"
+  },
+  {
+    "title": "TK 教主的话",
+    "link": "2021/words-from-tombkeeper.html"
+  },
+  {
     "title": "Hugo 内链当前标签页打开，外链新标签页打开",
     "link": "2021/hugo-open-internal-links-in-same-tab-external-links-in-new-tab.html"
   },
   {
     "title": "如何阅读一本书",
     "link": "2021/how-to-read-a-book.html"
+  },
+  {
+    "title": "三块广告牌",
+    "link": "2021/three-billboards-outside-ebbing-missouri.html"
   },
   {
     "title": "盗梦空间",
@@ -952,8 +1144,16 @@
     "link": "2021/2021-07.html"
   },
   {
+    "title": "stormzhang 的成长经历",
+    "link": "2021/stormzhang-de-experience.html"
+  },
+  {
     "title": "阿西莫夫最新科学指南（上下册）",
     "link": "2021/asimov-the-intelligent-mans-guide-to-science.html"
+  },
+  {
+    "title": "stormzhang 给程序员的建议",
+    "link": "2021/words-from-stormzhang.html"
   },
   {
     "title": "2021 年第 5 周问题汇总",
@@ -966,6 +1166,18 @@
   {
     "title": "不要限制自己",
     "link": "2021/do-not-limit-yourself.html"
+  },
+  {
+    "title": "如何用 6 分钟让自己的每一天都活力满满",
+    "link": "2021/use-6-minutes-to-make-your-every-day-full-of-energy.html"
+  },
+  {
+    "title": "高效能人士的七个习惯",
+    "link": "2021/the-7-habits-of-highly-effective-people.html"
+  },
+  {
+    "title": "Manuel Osorio Manrique De Zuñiga",
+    "link": "2021/manuel-osorio-manrique-de-zuniga.html"
   },
   {
     "title": "从先行后知到先知后行",
@@ -992,6 +1204,14 @@
     "link": "2021/mingbai-de-sharing-logic.html"
   },
   {
+    "title": "星际迷航系列",
+    "link": "2021/star-trek.html"
+  },
+  {
+    "title": "什么是 POP3、SMTP 及 IMAP？",
+    "link": "2021/what-is-pop3-smtp-imap.html"
+  },
+  {
     "title": "IMAP 和 POP3 有什么区别？",
     "link": "2021/difference-between-imap-pop3.html"
   },
@@ -1004,6 +1224,10 @@
     "link": "2021/question-2021-4.html"
   },
   {
+    "title": "毒液",
+    "link": "2021/venom.html"
+  },
+  {
     "title": "为 GitHub 主页添加「年进度」和「最近更新的博客文章」",
     "link": "2021/create-cool-github-profile.html"
   },
@@ -1014,6 +1238,10 @@
   {
     "title": "2021 年第 3 周问题汇总",
     "link": "2021/question-2021-3.html"
+  },
+  {
+    "title": "Mannikin in the Snow",
+    "link": "2021/mannikin-in-the-snow.html"
   },
   {
     "title": "New York Public Library",
@@ -1040,8 +1268,20 @@
     "link": "2021/bathers-at-moritzburg.html"
   },
   {
+    "title": "猜火车",
+    "link": "2021/trainspotting.html"
+  },
+  {
     "title": "2021-03",
     "link": "2021/2021-03.html"
+  },
+  {
+    "title": "音乐之声",
+    "link": "2021/the-sound-of-music.html"
+  },
+  {
+    "title": "谢谢你",
+    "link": "2021/thanks.html"
   },
   {
     "title": "如何编程",
@@ -1056,8 +1296,16 @@
     "link": "2021/2021-02.html"
   },
   {
+    "title": "一言一语",
+    "link": "2021/yi-yan-yi-yu.html"
+  },
+  {
     "title": "地球上的星星",
     "link": "2021/like-stars-on-earth.html"
+  },
+  {
+    "title": "罗马假日",
+    "link": "2021/roman-holiday.html"
   },
   {
     "title": "工作还是考研？",
