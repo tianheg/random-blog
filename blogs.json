@@ -448,12 +448,20 @@
     "link": "2021/2021-nov-up-summary.html"
   },
   {
+    "title": "如何写好 Git commit",
+    "link": "2021/git-write-good-commit.html"
+  },
+  {
     "title": "Git tag,branch,submodule 基本使用",
     "link": "2021/git-tag-branch-submodule-basic-usage.html"
   },
   {
     "title": "LC20. 有效的括号",
     "link": "2021/lc-20-valid-parentheses.html"
+  },
+  {
+    "title": "如何从 Git 仓库中完全移除文件",
+    "link": "2021/remove-files-from-git-history.html"
   },
   {
     "title": "HTML Marking Up Letter",
@@ -470,6 +478,10 @@
   {
     "title": "雪临有感",
     "link": "2021/feelings-with-snow-2021.html"
+  },
+  {
+    "title": "偶遇",
+    "link": "2021/met-by-chance.html"
   },
   {
     "title": "人的本性即是变化",
@@ -528,6 +540,10 @@
     "link": "2021/lc-122-best-time-to-buy-and-sell-stock-ii.html"
   },
   {
+    "title": "女孩",
+    "link": "2021/girl.html"
+  },
+  {
     "title": "LC26. 删除有序数组中的重复项",
     "link": "2021/lc-26-remove-duplicates-from-sorted-array.html"
   },
@@ -556,6 +572,10 @@
     "link": "2021/git-server-hook.html"
   },
   {
+    "title": "使用 Flask 构建简易博客",
+    "link": "2021/flask-blog.html"
+  },
+  {
     "title": "图解 HTTP",
     "link": "2021/graphical-http.html"
   },
@@ -564,12 +584,28 @@
     "link": "2021/2021-sept-down-summary.html"
   },
   {
+    "title": "信息检索",
+    "link": "2021/information-retrieval.html"
+  },
+  {
+    "title": "夏目友人账",
+    "link": "2021/natsume.html"
+  },
+  {
+    "title": "夏洛特烦恼",
+    "link": "2021/goodbye-mr-loser.html"
+  },
+  {
     "title": "部署 Hugo 博客到 Ubuntu 服务器",
     "link": "2021/hugo-deploy-to-server.html"
   },
   {
     "title": "Nginx 初次使用",
     "link": "2021/nginx-1st.html"
+  },
+  {
+    "title": "天贺私语 20210912",
+    "link": "2021/tianhe-talk-20210912.html"
   },
   {
     "title": "2021 年第 37 周总结",
@@ -636,6 +672,18 @@
     "link": "2021/2021-31.html"
   },
   {
+    "title": "将 non-root 用户添加到开发容器中",
+    "link": "2021/add-non-root-user-to-dev-container.html"
+  },
+  {
+    "title": "使用 xwmx/nb",
+    "link": "2021/use-xwmx-nb.html"
+  },
+  {
+    "title": "家庭应急物资清单",
+    "link": "2021/family-emergency-supplies-list.html"
+  },
+  {
     "title": "Theranos 标志着硅谷泡沫的顶峰吗？",
     "link": "2021/does-theranos-mark-the-peak-of-the-silicon-valley-bubble.html"
   },
@@ -658,6 +706,10 @@
   {
     "title": "朝花夕拾",
     "link": "2021/luxun-zhaohuaxishi.html"
+  },
+  {
+    "title": "地心抢险记 The Core",
+    "link": "2021/the-core.html"
   },
   {
     "title": "丧失写代码的激情",
@@ -700,6 +752,10 @@
     "link": "2021/connenting-with-people.html"
   },
   {
+    "title": "Dr. Strangelove",
+    "link": "2021/dr-strangelove.html"
+  },
+  {
     "title": "闪灵 Shining",
     "link": "2021/shining.html"
   },
@@ -736,12 +792,20 @@
     "link": "2021/apollo-11.html"
   },
   {
+    "title": "如何拍出好看的照片",
+    "link": "2021/take-good-picture.html"
+  },
+  {
     "title": "2021 年第 23 周问题汇总",
     "link": "2021/question-2021-23.html"
   },
   {
     "title": "2021 年第 24 周总结",
     "link": "2021/2021-24.html"
+  },
+  {
+    "title": "如何考取中科院心理咨询师基础培训证书",
+    "link": "2021/prepare-for-psychotherapist.html"
   },
   {
     "title": "安装 intltool",
@@ -764,6 +828,10 @@
     "link": "2021/gone-with-the-wind.html"
   },
   {
+    "title": "应该买的几种保险",
+    "link": "2021/types-of-insurance-that-should-be-bought.html"
+  },
+  {
     "title": "不同年龄阶段的保险需求",
     "link": "2021/insurance-needs-for-different-age-groups.html"
   },
@@ -780,12 +848,20 @@
     "link": "2021/2021-22.html"
   },
   {
+    "title": "做读书笔记或摘录时出处的书写格式",
+    "link": "2021/witing-format-of-source.html"
+  },
+  {
     "title": "什么是超级月全食",
     "link": "2021/what-is-super-total-lunar-eclipse.html"
   },
   {
     "title": "2021 年第 21 周总结",
     "link": "2021/2021-21.html"
+  },
+  {
+    "title": "只要平凡",
+    "link": "2021/just-ordinary.html"
   },
   {
     "title": "人体系统",
@@ -808,8 +884,24 @@
     "link": "2021/question-2021-20.html"
   },
   {
+    "title": "如何洗汗渍",
+    "link": "2021/wash-sweat-stains.html"
+  },
+  {
     "title": "写经修行",
     "link": "2021/yuqiuyu-xiejingxiuxing.html"
+  },
+  {
+    "title": "太阳",
+    "link": "2021/the-sun.html"
+  },
+  {
+    "title": "如果今天我被表白",
+    "link": "2021/if-a-girl-say-i-like-you-today.html"
+  },
+  {
+    "title": "学会系统思考问题",
+    "link": "2021/systematic-thinking.html"
   },
   {
     "title": "人生架构",
@@ -826,6 +918,10 @@
   {
     "title": "了解糖尿病",
     "link": "2021/diabetes.html"
+  },
+  {
+    "title": "塑料袋",
+    "link": "2021/plastic-bag.html"
   },
   {
     "title": "借我一生",
@@ -848,6 +944,10 @@
     "link": "2021/yellow-flower-and-sunset.html"
   },
   {
+    "title": "图书馆联盟中的图书如何获取",
+    "link": "2021/get-book-from-national-library-reference-consultation-alliance.html"
+  },
+  {
     "title": "Ethan Hawke - Ryan's Song",
     "link": "2021/ethan-hawke-ryans-song.html"
   },
@@ -866,6 +966,14 @@
   {
     "title": "余秋雨译《离骚》",
     "link": "2021/qiu-yu-yu-translate-li-sao.html"
+  },
+  {
+    "title": "常用标点符号",
+    "link": "2021/common-symbols.html"
+  },
+  {
+    "title": "“做客”和“作客”的区别",
+    "link": "2021/zuo-ke-and-zuo-ke.html"
   },
   {
     "title": "出游记",
@@ -890,6 +998,22 @@
   {
     "title": "学习与人生",
     "link": "2021/study-and-life.html"
+  },
+  {
+    "title": "影视鉴赏",
+    "link": "2021/film-appreciation.html"
+  },
+  {
+    "title": "去爱吧",
+    "link": "2021/love-like-you-ve-never-been-hurt.html"
+  },
+  {
+    "title": "几句有灵性的句子，小学生写的",
+    "link": "2021/a-few-spiritual-sentences.html"
+  },
+  {
+    "title": "你是怎么度过痛苦困难的原版书阅读初期的？",
+    "link": "2021/read-difficult-english-book.html"
   },
   {
     "title": "你拥有“短期享乐”的能力吗？",
@@ -1166,6 +1290,10 @@
   {
     "title": "不要限制自己",
     "link": "2021/do-not-limit-yourself.html"
+  },
+  {
+    "title": "向别人介绍自己",
+    "link": "2021/introduce-yourself-to-others.html"
   },
   {
     "title": "如何用 6 分钟让自己的每一天都活力满满",
