@@ -1,3 +1,4 @@
+- [E09 孟岩对话黄海：让更多人知道你，还是让爱你的人更爱你](https://www.xiaoyuzhoufm.com/episode/61dbf5b519e8465da2f8f4fd)
 - [A Simple Web Developer’s Color Guide — Smashing Magazine](https://www.smashingmagazine.com/2016/04/web-developer-guide-color/)
 - [Ten Tips For Aspiring Designer Beginners (Part 1) — Smashing Magazine](https://www.smashingmagazine.com/2022/01/ten-tips-aspiring-designer-beginners-part1/)
 - [What are Fundamentals? | Arun Prasad](https://arunkprasad.com/log/what-are-fundamentals/)
