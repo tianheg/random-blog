@@ -1,3 +1,4 @@
+- [Notes on technology in the 2020s](https://elidourado.com/blog/notes-on-technology-2020s)
 - [The Internet Changed My Life](https://pointersgonewild.com/2022/01/19/the-internet-changed-my-life/)
 - [E09 孟岩对话黄海：让更多人知道你，还是让爱你的人更爱你](https://www.xiaoyuzhoufm.com/episode/61dbf5b519e8465da2f8f4fd)
 - [A Simple Web Developer’s Color Guide — Smashing Magazine](https://www.smashingmagazine.com/2016/04/web-developer-guide-color/)
