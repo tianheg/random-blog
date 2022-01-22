@@ -1,3 +1,4 @@
+- [技术同学在业务中的成长 · 语雀](https://www.yuque.com/barretlee/thinking/lo6pnm)
 - [2020年森林资源评估报告](https://www.fao.org/forest-resources-assessment/2020/zh)
 - [Notes on technology in the 2020s](https://elidourado.com/blog/notes-on-technology-2020s)
 - [The Internet Changed My Life](https://pointersgonewild.com/2022/01/19/the-internet-changed-my-life/)
