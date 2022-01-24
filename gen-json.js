@@ -13,6 +13,7 @@ fs.writeFile("feeds.json", JSON.stringify(feeds, null, 2), (err) => {
   console.log("Successfully written data to feeds.json");
 });
 
+// for blogs.json
 const url = "https://www.yidajiabei.xyz/blog/index.html";
 
 async function scrapeData() {
