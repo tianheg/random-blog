@@ -1,5 +1,10 @@
 [
   {
+    "title": "通过 Python 为博客生成 RSS",
+    "link": "2022/python-blog-rss.html",
+    "date": "2022-01-26"
+  },
+  {
     "title": "DOM Scripting",
     "link": "2022/dom-scripting.html",
     "date": "2022-01-22"
@@ -545,6 +550,11 @@
     "date": "2021-11-21"
   },
   {
+    "title": "由兼职时的错误引起的自我反思",
+    "link": "2021/part-time-job-error-self-reflection.html",
+    "date": "2021-11-18"
+  },
+  {
     "title": "麻辣拌",
     "link": "2021/spicy-mix.html",
     "date": "2021-11-18"
@@ -613,6 +623,11 @@
     "title": "Nginx 中在 80 端口添加 HTTP/2 出现问题",
     "link": "2021/nginx-80-http2.html",
     "date": "2021-11-03"
+  },
+  {
+    "title": "笨蛋如我",
+    "link": "2021/idiot-like-me.html",
+    "date": "2021-11-02"
   },
   {
     "title": "2021 年 10 月下旬总结",
@@ -715,6 +730,11 @@
     "date": "2021-10-11"
   },
   {
+    "title": "爱你就像爱生命",
+    "link": "2021/wang-xiaobo-love-you-like-life.html",
+    "date": "2021-10-05"
+  },
+  {
     "title": "使用 Flask 构建简易博客",
     "link": "2021/flask-blog.html",
     "date": "2021-10-05"
@@ -790,6 +810,11 @@
     "date": "2021-09-12"
   },
   {
+    "title": "脱发和什么有关",
+    "link": "2021/hair-loss.html",
+    "date": "2021-09-08"
+  },
+  {
     "title": "2021 年第 36 周总结",
     "link": "2021/2021-36.html",
     "date": "2021-09-07"
@@ -825,6 +850,11 @@
     "date": "2021-08-23"
   },
   {
+    "title": "海角七号",
+    "link": "2021/cape-no-7.html",
+    "date": "2021-08-21"
+  },
+  {
     "title": "Arch 软件安装和用法",
     "link": "2021/arch-software-installation-and-usage.html",
     "date": "2021-08-20"
@@ -855,6 +885,11 @@
     "date": "2021-08-15"
   },
   {
+    "title": "记一次切菜受伤",
+    "link": "2021/record-a-injury-with-chopping-vegetables.html",
+    "date": "2021-08-14"
+  },
+  {
     "title": "The Time Traveler's Wife",
     "link": "2021/the-time-travelers-wife.html",
     "date": "2021-08-14"
@@ -875,9 +910,19 @@
     "date": "2021-08-02"
   },
   {
+    "title": "配置 dotfiles",
+    "link": "2021/dotfiles.html",
+    "date": "2021-08-01"
+  },
+  {
     "title": "2021 年第 31 周总结",
     "link": "2021/2021-31.html",
     "date": "2021-08-01"
+  },
+  {
+    "title": "解决 DNS_PROBE_FINISHED_NXDOMAIN",
+    "link": "2021/fix-dns-probe-finished-nxdomain.html",
+    "date": "2021-07-31"
   },
   {
     "title": "横隔膜",
@@ -905,6 +950,11 @@
     "date": "2021-07-31"
   },
   {
+    "title": "让博客的导航栏固定在窗口的边缘",
+    "link": "2021/fix-nav-to-window-edge.html",
+    "date": "2021-07-30"
+  },
+  {
     "title": "家庭应急物资清单",
     "link": "2021/family-emergency-supplies-list.html",
     "date": "2021-07-30"
@@ -913,6 +963,11 @@
     "title": "Theranos 标志着硅谷泡沫的顶峰吗？",
     "link": "2021/does-theranos-mark-the-peak-of-the-silicon-valley-bubble.html",
     "date": "2021-07-30"
+  },
+  {
+    "title": "配置 GitHub Codespaces 初始环境",
+    "link": "2021/github-codespaces.html",
+    "date": "2021-07-29"
   },
   {
     "title": "植物能感知疼痛，甚至能看见",
@@ -928,6 +983,11 @@
     "title": "人生苦短",
     "link": "2021/life-is-short.html",
     "date": "2021-07-29"
+  },
+  {
+    "title": "葛饰北斋的大浪潮是如何从日本的孤立中崛起成为全球的标志",
+    "link": "2021/how-hokusais-great-wave-emerged-from-japans-isolation-to-become-a-global-icon.html",
+    "date": "2021-07-28"
   },
   {
     "title": "心花路放",
@@ -970,6 +1030,16 @@
     "date": "2021-07-21"
   },
   {
+    "title": "解决问题的路上永远都伴随着意外和惊喜",
+    "link": "2021/the-surprise-with-solving-problem.html",
+    "date": "2021-07-20"
+  },
+  {
+    "title": "虚荣心之殇",
+    "link": "2021/mourn-about-vanity.html",
+    "date": "2021-07-19"
+  },
+  {
     "title": "为 gatsby-theme-garden 添加代码高亮",
     "link": "2021/add-code-highlight-for-gatsby-theme-garden.html",
     "date": "2021-07-19"
@@ -983,6 +1053,16 @@
     "title": "2021 年第 29 周总结",
     "link": "2021/2021-29.html",
     "date": "2021-07-18"
+  },
+  {
+    "title": "看海的人",
+    "link": "2021/person-who-watches-the-sea.html",
+    "date": "2021-07-17"
+  },
+  {
+    "title": "眼望夕阳",
+    "link": "2021/look-sun-setting.html",
+    "date": "2021-07-15"
   },
   {
     "title": "醉步男",
@@ -1005,9 +1085,19 @@
     "date": "2021-07-12"
   },
   {
+    "title": "没有一劳永逸的办法",
+    "link": "2021/no-one-way-to-solve-all-problems.html",
+    "date": "2021-07-11"
+  },
+  {
     "title": "与人链接",
     "link": "2021/connenting-with-people.html",
     "date": "2021-07-11"
+  },
+  {
+    "title": "沉思录 210710",
+    "link": "2021/meditation-210710.html",
+    "date": "2021-07-10"
   },
   {
     "title": "期末考的始终",
@@ -1025,6 +1115,11 @@
     "date": "2021-07-06"
   },
   {
+    "title": "沉思录 210704",
+    "link": "2021/meditation-210704.html",
+    "date": "2021-07-04"
+  },
+  {
     "title": "2021 年第 27 周问题汇总",
     "link": "2021/question-2021-27.html",
     "date": "2021-07-04"
@@ -1035,9 +1130,24 @@
     "date": "2021-07-04"
   },
   {
+    "title": "身体与心灵",
+    "link": "2021/body-and-mind.html",
+    "date": "2021-07-03"
+  },
+  {
+    "title": "致命魔术",
+    "link": "2021/the-prestige.html",
+    "date": "2021-07-01"
+  },
+  {
     "title": "SICP1: 用过程构建抽象",
     "link": "2021/sicp-1.html",
     "date": "2021-07-01"
+  },
+  {
+    "title": "绿皮书",
+    "link": "2021/green-book.html",
+    "date": "2021-06-27"
   },
   {
     "title": "2021 年第 26 周总结",
@@ -1050,6 +1160,11 @@
     "date": "2021-06-27"
   },
   {
+    "title": "沉思录 210623",
+    "link": "2021/meditation-210623.html",
+    "date": "2021-06-23"
+  },
+  {
     "title": "2021 年第 25 周总结",
     "link": "2021/2021-25.html",
     "date": "2021-06-21"
@@ -1060,14 +1175,69 @@
     "date": "2021-06-21"
   },
   {
+    "title": "沉思录 210621",
+    "link": "2021/meditation-210621.html",
+    "date": "2021-06-21"
+  },
+  {
     "title": "阿波罗 11 号",
     "link": "2021/apollo-11.html",
     "date": "2021-06-20"
   },
   {
+    "title": "沉思录 210620",
+    "link": "2021/meditation-210620.html",
+    "date": "2021-06-20"
+  },
+  {
+    "title": "沉思录 210619",
+    "link": "2021/meditation-210619.html",
+    "date": "2021-06-19"
+  },
+  {
+    "title": "沉思录 210618",
+    "link": "2021/meditation-210618.html",
+    "date": "2021-06-18"
+  },
+  {
+    "title": "沉思录 210617",
+    "link": "2021/meditation-210617.html",
+    "date": "2021-06-17"
+  },
+  {
+    "title": "沉思录 210616",
+    "link": "2021/meditation-210616.html",
+    "date": "2021-06-16"
+  },
+  {
+    "title": "沉思录 210615",
+    "link": "2021/meditation-210615.html",
+    "date": "2021-06-15"
+  },
+  {
+    "title": "沉思录 210614",
+    "link": "2021/meditation-210614.html",
+    "date": "2021-06-14"
+  },
+  {
     "title": "如何拍出好看的照片",
     "link": "2021/take-good-picture.html",
     "date": "2021-06-14"
+  },
+  {
+    "title": "疯狂的赛车",
+    "link": "2021/crazy-racer.html",
+    "date": "2021-06-13"
+  },
+  {
+    "title": "疯狂的石头",
+    "link": "2021/crazy-stone.html",
+    "date": "2021-06-13"
+  },
+  {
+    "title": "沉思录 210613",
+    "link": "2021/meditation-210613.html",
+    "date": "2021-06-13"
   },
   {
     "title": "2021 年第 23 周问题汇总",
@@ -1078,6 +1248,16 @@
     "title": "2021 年第 24 周总结",
     "link": "2021/2021-24.html",
     "date": "2021-06-13"
+  },
+  {
+    "title": "蜜蜂之死",
+    "link": "2021/death-of-a-bee.html",
+    "date": "2021-06-12"
+  },
+  {
+    "title": "沉思录 210612",
+    "link": "2021/meditation-210612.html",
+    "date": "2021-06-12"
   },
   {
     "title": "春江花月夜",
@@ -1095,9 +1275,64 @@
     "date": "2021-06-12"
   },
   {
+    "title": "沉思录 210611",
+    "link": "2021/meditation-210611.html",
+    "date": "2021-06-11"
+  },
+  {
+    "title": "等待未知",
+    "link": "2021/waiting-for-the-unknown.html",
+    "date": "2021-06-10"
+  },
+  {
+    "title": "沉思录 210610",
+    "link": "2021/meditation-210610.html",
+    "date": "2021-06-10"
+  },
+  {
+    "title": "诗人",
+    "link": "2021/poets.html",
+    "date": "2021-06-09"
+  },
+  {
+    "title": "艺术网站",
+    "link": "2021/art-sites.html",
+    "date": "2021-06-09"
+  },
+  {
+    "title": "艺术家",
+    "link": "2021/artists.html",
+    "date": "2021-06-09"
+  },
+  {
+    "title": "沉思录 210609",
+    "link": "2021/meditation-210609.html",
+    "date": "2021-06-09"
+  },
+  {
     "title": "The World Is Too Much With Us",
     "link": "2021/world-too-much-us.html",
     "date": "2021-06-09"
+  },
+  {
+    "title": "沉思录 210608",
+    "link": "2021/meditation-210608.html",
+    "date": "2021-06-08"
+  },
+  {
+    "title": "赡养父母",
+    "link": "2021/support-for-parents.html",
+    "date": "2021-06-07"
+  },
+  {
+    "title": "沉思录 210607",
+    "link": "2021/meditation-210607.html",
+    "date": "2021-06-07"
+  },
+  {
+    "title": "沉思录 210606",
+    "link": "2021/meditation-210606.html",
+    "date": "2021-06-06"
   },
   {
     "title": "2021 年第 22 周问题汇总",
@@ -1110,9 +1345,34 @@
     "date": "2021-06-06"
   },
   {
+    "title": "沉思录 210605",
+    "link": "2021/meditation-210605.html",
+    "date": "2021-06-05"
+  },
+  {
+    "title": "沉思录 210604",
+    "link": "2021/meditation-210604.html",
+    "date": "2021-06-04"
+  },
+  {
+    "title": "沉思录 210603",
+    "link": "2021/meditation-210603.html",
+    "date": "2021-06-03"
+  },
+  {
     "title": "乱世佳人",
     "link": "2021/gone-with-the-wind.html",
     "date": "2021-06-03"
+  },
+  {
+    "title": "沉思录 210602",
+    "link": "2021/meditation-210602.html",
+    "date": "2021-06-02"
+  },
+  {
+    "title": "沉思录 210601",
+    "link": "2021/meditation-210601.html",
+    "date": "2021-06-01"
   },
   {
     "title": "性教育",
@@ -1135,6 +1395,11 @@
     "date": "2021-06-01"
   },
   {
+    "title": "沉思录 210531",
+    "link": "2021/meditation-210531.html",
+    "date": "2021-05-31"
+  },
+  {
     "title": "2021 年第 21 周问题汇总",
     "link": "2021/question-2021-21.html",
     "date": "2021-05-31"
@@ -1143,6 +1408,41 @@
     "title": "2021 年第 22 周总结",
     "link": "2021/2021-22.html",
     "date": "2021-05-31"
+  },
+  {
+    "title": "沉思录 210530",
+    "link": "2021/meditation-210530.html",
+    "date": "2021-05-30"
+  },
+  {
+    "title": "沉思录 210529",
+    "link": "2021/meditation-210529.html",
+    "date": "2021-05-29"
+  },
+  {
+    "title": "沉思录 210528",
+    "link": "2021/meditation-210528.html",
+    "date": "2021-05-28"
+  },
+  {
+    "title": "沉思录 210527",
+    "link": "2021/meditation-210527.html",
+    "date": "2021-05-27"
+  },
+  {
+    "title": "萧伯纳在壁炉上的三句话",
+    "link": "2021/three-words-from-george-bernard-shaw-on-the-mantelpiece.html",
+    "date": "2021-05-26"
+  },
+  {
+    "title": "自我矛盾的斗争",
+    "link": "2021/self-contradictory-struggle.html",
+    "date": "2021-05-26"
+  },
+  {
+    "title": "沉思录 210526",
+    "link": "2021/meditation-210526.html",
+    "date": "2021-05-26"
   },
   {
     "title": "月全食与巧合",
@@ -1158,6 +1458,21 @@
     "title": "什么是超级月全食",
     "link": "2021/what-is-super-total-lunar-eclipse.html",
     "date": "2021-05-26"
+  },
+  {
+    "title": "蓝天白云",
+    "link": "2021/blue-sky-white-cloud.html",
+    "date": "2021-05-25"
+  },
+  {
+    "title": "沉思录 210525",
+    "link": "2021/meditation-210525.html",
+    "date": "2021-05-25"
+  },
+  {
+    "title": "沉思录 210524",
+    "link": "2021/meditation-210524.html",
+    "date": "2021-05-24"
   },
   {
     "title": "2021 年第 21 周总结",
@@ -1200,6 +1515,21 @@
     "date": "2021-05-23"
   },
   {
+    "title": "沉思录 210523",
+    "link": "2021/meditation-210523.html",
+    "date": "2021-05-23"
+  },
+  {
+    "title": "心经",
+    "link": "2021/xuanzang-heart-sutra.html",
+    "date": "2021-05-22"
+  },
+  {
+    "title": "沉思录 210522",
+    "link": "2021/meditation-210522.html",
+    "date": "2021-05-22"
+  },
+  {
     "title": "如何洗汗渍",
     "link": "2021/wash-sweat-stains.html",
     "date": "2021-05-22"
@@ -1210,9 +1540,19 @@
     "date": "2021-05-22"
   },
   {
+    "title": "沉思录 210521",
+    "link": "2021/meditation-210521.html",
+    "date": "2021-05-21"
+  },
+  {
     "title": "太阳",
     "link": "2021/the-sun.html",
     "date": "2021-05-21"
+  },
+  {
+    "title": "沉思录 210520",
+    "link": "2021/meditation-210520.html",
+    "date": "2021-05-20"
   },
   {
     "title": "如果今天我被表白",
@@ -1220,9 +1560,24 @@
     "date": "2021-05-20"
   },
   {
+    "title": "沉思录 210519",
+    "link": "2021/meditation-210519.html",
+    "date": "2021-05-19"
+  },
+  {
+    "title": "沉思录 210518",
+    "link": "2021/meditation-210518.html",
+    "date": "2021-05-18"
+  },
+  {
     "title": "学会系统思考问题",
     "link": "2021/systematic-thinking.html",
     "date": "2021-05-18"
+  },
+  {
+    "title": "沉思录 210517",
+    "link": "2021/meditation-210517.html",
+    "date": "2021-05-17"
   },
   {
     "title": "人生架构",
@@ -1245,14 +1600,39 @@
     "date": "2021-05-16"
   },
   {
+    "title": "沉思录 210516",
+    "link": "2021/meditation-210516.html",
+    "date": "2021-05-16"
+  },
+  {
+    "title": "沉思录 210515",
+    "link": "2021/meditation-210515.html",
+    "date": "2021-05-15"
+  },
+  {
     "title": "了解糖尿病",
     "link": "2021/diabetes.html",
     "date": "2021-05-15"
   },
   {
+    "title": "沉思录 210514",
+    "link": "2021/meditation-210514.html",
+    "date": "2021-05-14"
+  },
+  {
     "title": "塑料袋",
     "link": "2021/plastic-bag.html",
     "date": "2021-05-14"
+  },
+  {
+    "title": "沉思录 210513",
+    "link": "2021/meditation-210513.html",
+    "date": "2021-05-13"
+  },
+  {
+    "title": "沉思录 210512",
+    "link": "2021/meditation-210512.html",
+    "date": "2021-05-12"
   },
   {
     "title": "借我一生",
@@ -1340,6 +1720,11 @@
     "date": "2021-05-04"
   },
   {
+    "title": "程序员中的大牛都是从很早就开始接触编程的吗",
+    "link": "2021/do-the-big-cows-among-programmers-have-been-exposed-to-programming-from-a-very-early-time.html",
+    "date": "2021-05-03"
+  },
+  {
     "title": "沉思录 210503",
     "link": "2021/meditation-210503.html",
     "date": "2021-05-03"
@@ -1378,6 +1763,11 @@
     "title": "常用标点符号",
     "link": "2021/common-symbols.html",
     "date": "2021-05-01"
+  },
+  {
+    "title": "翻译人名时要注意",
+    "link": "2021/translate-person-name.html",
+    "date": "2021-04-30"
   },
   {
     "title": "时时勤拂拭，莫使惹尘埃",
@@ -1423,6 +1813,36 @@
     "title": "学习与人生",
     "link": "2021/study-and-life.html",
     "date": "2021-04-17"
+  },
+  {
+    "title": "表达的秘诀",
+    "link": "2021/the-secret-of-expression.html",
+    "date": "2021-04-15"
+  },
+  {
+    "title": "自我是什么？",
+    "link": "2021/what-is-ego.html",
+    "date": "2021-04-15"
+  },
+  {
+    "title": "神曲",
+    "link": "2021/divine-comedy.html",
+    "date": "2021-04-15"
+  },
+  {
+    "title": "直角引号「」『』",
+    "link": "2021/quotation-marks.html",
+    "date": "2021-04-15"
+  },
+  {
+    "title": "疑惑",
+    "link": "2021/doubt.html",
+    "date": "2021-04-15"
+  },
+  {
+    "title": "独立思考",
+    "link": "2021/independent-thinking.html",
+    "date": "2021-04-15"
   },
   {
     "title": "杨绛的人生哲学",
