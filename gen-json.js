@@ -54,19 +54,17 @@ async function scrapeData() {
       }
       // console.log(country.title);
       // Populate countries array with country data
-      axios
-        .get('https://www.yidajiabei.xyz/blog/' + country.link)
-        .then((res) => {
-          // country.desp = res.data;
-          console.log(res.data)
-        });
-      axios.get('http://webcode.me').then((resp) => {
-        // console.log(resp.data);
-      });
+      country.desp = fs
+        .readFileSync('/home/archie/repo/blog/blog/' + country.link)
+        .toString()
+        .match(/<body[^>]*>([\w|\W]*)<\/body>/im)[1]
+        .replaceAll('<', '&lt;')
+        .replaceAll('>', '&gt;')
+        .trim();
       countries.push(country);
     });
     // Logs countries array to the console
-    console.dir(countries);
+    // console.dir(countries);
     // Write countries array in countries.json file
     fs.writeFile('blogs.json', JSON.stringify(countries, null, 2), (err) => {
       if (err) {
