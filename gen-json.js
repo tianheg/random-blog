@@ -29,7 +29,7 @@ async function scrapeData() {
     // Use .each method to loop through the li we selected
     listItems.each((idx, el) => {
       // Object holding data for each country/jurisdiction
-      const country = { title: '', link: '', date: '' }; // , link: ""
+      const country = { title: '', link: '', date: '', desp: '' }; // , link: ""
       // Select the text content of a and span elements
       // Store the textcontent in the above object
       country.title = $(el).children('a').text();
@@ -51,10 +51,19 @@ async function scrapeData() {
         country.date = '2019-' + country.date;
       } else if (country.link.split('/')[0] === '2018') {
         country.date = '2018-' + country.date;
-      } 
-        // console.log(country.title);
-        // Populate countries array with country data
-        countries.push(country);
+      }
+      // console.log(country.title);
+      // Populate countries array with country data
+      axios
+        .get('https://www.yidajiabei.xyz/blog/' + country.link)
+        .then((res) => {
+          // country.desp = res.data;
+          console.log(res.data)
+        });
+      axios.get('http://webcode.me').then((resp) => {
+        // console.log(resp.data);
+      });
+      countries.push(country);
     });
     // Logs countries array to the console
     console.dir(countries);
