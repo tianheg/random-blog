@@ -1,3 +1,4 @@
+- [Building a newbie-friendly codebase](https://doist.dev/posts/building-a-newbie-friendly-codebase)
 - [技术同学在业务中的成长 | 小胡子哥的个人网站](https://www.barretlee.com/blog/2020/08/17/growth-in-work/)
 - [2020年森林资源评估报告](https://www.fao.org/forest-resources-assessment/2020/zh)
 - [Notes on technology in the 2020s](https://elidourado.com/blog/notes-on-technology-2020s)
