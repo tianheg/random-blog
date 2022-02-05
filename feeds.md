@@ -1,3 +1,4 @@
+- [The Microwave Economy - David Perell](https://perell.com/essay/the-microwave-economy/)
 - [Building a newbie-friendly codebase](https://doist.dev/posts/building-a-newbie-friendly-codebase)
 - [技术同学在业务中的成长 | 小胡子哥的个人网站](https://www.barretlee.com/blog/2020/08/17/growth-in-work/)
 - [2020年森林资源评估报告](https://www.fao.org/forest-resources-assessment/2020/zh)
