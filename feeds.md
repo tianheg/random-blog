@@ -1,3 +1,4 @@
+- [68 Bits of Unsolicited Advice](https://kk.org/thetechnium/68-bits-of-unsolicited-advice/)
 - [99 Additional Bits of Unsolicited Advice](http://kk.org)
 - [彼得·泰尔的窄门思维 |捕手志 - 模仿理论](https://mp.weixin.qq.com/s/-RM4s-y3pFKVkXY4pcetzA#/)
 - [The Microwave Economy - David Perell](https://perell.com/essay/the-microwave-economy/)
