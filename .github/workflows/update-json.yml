@@ -28,6 +28,7 @@ jobs:
         run: |
           cd blog
           ls -l
+          pwd
 
       # gen json
       # - name: Use Node.js
