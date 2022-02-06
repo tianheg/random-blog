@@ -55,7 +55,7 @@ async function scrapeData() {
       // console.log(country.title);
       // Populate countries array with country data
       country.desp = fs
-        .readFileSync('/home/archie/repo/blog/blog/' + country.link)
+        .readFileSync('blog/blog/' + country.link)
         .toString()
         .match(/<body[^>]*>([\w|\W]*)<\/body>/im)[1]
         .replaceAll('<', '&lt;')
