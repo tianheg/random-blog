@@ -16,21 +16,35 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Use Node.js
-        uses: actions/setup-node@v2
+
+      # clone private repo
+      - name: Clone private repo
+        uses: GuillaumeFalourd/clone-github-repo-action@v1
         with:
-          node-version: 16
-      - run: npm install
-      - run: node gen-json.js
-      - name: Commit files
+          owner: 'tianheg'
+          repository: 'blog'
+          access-token: ${{ secrets.ACCESS_TOKEN }}
+      - name: Access cloned repository content
         run: |
-          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git commit -m "Update json files" -a || true
-          # The above command will fail if no changes were present, so we ignore
-          # the return code.
-      - name: Push changes
-        uses: tianheg/github-actions@push
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
+          cd blog
+          ls -l
+
+      # gen json
+      # - name: Use Node.js
+      #   uses: actions/setup-node@v2
+      #   with:
+      #     node-version: 16
+      # - run: npm install
+      # - run: node gen-json.js
+      # - name: Commit files
+      #   run: |
+      #     git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      #     git config --local user.name "github-actions[bot]"
+      #     git commit -m "Update json files" -a || true
+      #     # The above command will fail if no changes were present, so we ignore
+      #     # the return code.
+      # - name: Push changes
+      #   uses: tianheg/github-actions@push
+      #   with:
+      #     github_token: ${{ secrets.GITHUB_TOKEN }}
+      #     branch: ${{ github.ref }}
