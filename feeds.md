@@ -1,3 +1,4 @@
+- [How To Take Smart Notes With Org-mode · Jethro Kuan](https://blog.jethro.dev/posts/how_to_take_smart_notes_org/)
 - [CodingLabs - MySQL索引背后的数据结构及算法原理](https://blog.codinglabs.org/articles/theory-of-mysql-index.html)
 - [68 Bits of Unsolicited Advice](https://kk.org/thetechnium/68-bits-of-unsolicited-advice/)
 - [99 Additional Bits of Unsolicited Advice](https://kk.org/thetechnium/99-additional-bits-of-unsolicited-advice/)
