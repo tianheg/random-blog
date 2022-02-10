@@ -21,7 +21,7 @@ related files: `script.js`, `blogs.json`
 ## ToDo
 
 - [ ] get JSON file with pure JS
-- [ ] GitHub Action bot release v1(jQuery), althrough this state of repo was broken because I change my blog again
+- [x] GitHub Action bot release v1(jQuery), althrough this state of repo was broken because I change my blog again
 
 ## Acknowledgement
 
