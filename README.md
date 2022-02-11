@@ -4,7 +4,7 @@ This is a page that generate a random article from my [Chinese blog](https://www
 
 ## How-to
 
-### 1. Get JSON file
+### 1. ~Get JSON file~(removed because blog has been changed)
 
 related files: `gen-json.js`, `package.json`
 
@@ -13,7 +13,7 @@ related files: `gen-json.js`, `package.json`
 
 ### 2. Pass JSON data to HTML file
 
-related files: `script.js`, `blogs.json`
+related files: `script.js`, `feeds.json`
 
 - Use `jQuery` get data from JSON file
 - Use `jQuery` reload page through button
@@ -21,7 +21,7 @@ related files: `script.js`, `blogs.json`
 ## ToDo
 
 - [ ] get JSON file with pure JS
-- [x] GitHub Action bot release v1(jQuery), althrough this state of repo was broken because I change my blog again
+- [x] ~GitHub Action bot release v1(jQuery), althrough this state of repo was broken because I change my blog again~
 
 ## Acknowledgement
 
