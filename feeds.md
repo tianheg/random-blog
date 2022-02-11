@@ -1,3 +1,4 @@
+- [Org Mode Workflow - config.daviwil.com](https://config.daviwil.com/workflow)
 - [Emacs Configuration - config.daviwil.com](https://config.daviwil.com/emacs)
 - [DeSci 指南：去中心化科学运动正在成为最新的 Web3 实践 - 链捕手](https://www.chaincatcher.com/article/2069942)
 - [How To Take Smart Notes With Org-mode · Jethro Kuan](https://blog.jethro.dev/posts/how_to_take_smart_notes_org/)
