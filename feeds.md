@@ -1,3 +1,4 @@
+- [DeSci 指南：去中心化科学运动正在成为最新的 Web3 实践 - 链捕手](https://www.chaincatcher.com/article/2069942)
 - [How To Take Smart Notes With Org-mode · Jethro Kuan](https://blog.jethro.dev/posts/how_to_take_smart_notes_org/)
 - [CodingLabs - MySQL索引背后的数据结构及算法原理](https://blog.codinglabs.org/articles/theory-of-mysql-index.html)
 - [68 Bits of Unsolicited Advice](https://kk.org/thetechnium/68-bits-of-unsolicited-advice/)
