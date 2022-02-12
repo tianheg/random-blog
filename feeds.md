@@ -1,3 +1,4 @@
+- [How to Implement a Linked List in JavaScript](https://www.freecodecamp.org/news/implementing-a-linked-list-in-javascript/)
 - [涂亮的个人博客](https://alfred-sun.github.io/tuliangblog/)
 - [Org Mode Workflow - config.daviwil.com](https://config.daviwil.com/workflow)
 - [Emacs Configuration - config.daviwil.com](https://config.daviwil.com/emacs)
