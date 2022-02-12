@@ -1,5 +1,21 @@
 [
   {
+    "title": "涂亮的个人博客",
+    "link": "https://alfred-sun.github.io/tuliangblog/"
+  },
+  {
+    "title": "Org Mode Workflow - config.daviwil.com",
+    "link": "https://config.daviwil.com/workflow"
+  },
+  {
+    "title": "Emacs Configuration - config.daviwil.com",
+    "link": "https://config.daviwil.com/emacs"
+  },
+  {
+    "title": "DeSci 指南：去中心化科学运动正在成为最新的 Web3 实践 - 链捕手",
+    "link": "https://www.chaincatcher.com/article/2069942"
+  },
+  {
     "title": "How To Take Smart Notes With Org-mode · Jethro Kuan",
     "link": "https://blog.jethro.dev/posts/how_to_take_smart_notes_org/"
   },
