@@ -1,3 +1,4 @@
+- [The 3-2-1 Backup Rule – Why Your Data Will Always Survive](https://www.vmwareblog.org/3-2-1-backup-rule-data-will-always-survive/)
 - [Ask HN: What is your “I don't care if this succeeds” project? | Hacker News](https://news.ycombinator.com/item?id=25992782)
 - [Best practices for using Docker Hub for CI/CD - Docker Blog](https://www.docker.com/blog/best-practices-for-using-docker-hub-for-ci-cd/)
 - [Demystifying Containers - Part I: Kernel Space](https://medium.com/@saschagrunert/demystifying-containers-part-i-kernel-space-2c53d6979504)
