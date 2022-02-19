@@ -1,3 +1,4 @@
+- [科技爱好者周刊（第 195 期）：你做过不在乎结果的项目吗？ - 阮一峰的网络日志](https://www.ruanyifeng.com/blog/2022/02/weekly-issue-195.html)
 - [The 3-2-1 Backup Rule – Why Your Data Will Always Survive](https://www.vmwareblog.org/3-2-1-backup-rule-data-will-always-survive/)
 - [Ask HN: What is your “I don't care if this succeeds” project? | Hacker News](https://news.ycombinator.com/item?id=25992782)
 - [Best practices for using Docker Hub for CI/CD - Docker Blog](https://www.docker.com/blog/best-practices-for-using-docker-hub-for-ci-cd/)
