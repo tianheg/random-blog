@@ -1,3 +1,4 @@
+- [A Modern CSS Reset - Piccalilli](https://piccalil.li/blog/a-modern-css-reset/)
 - [科技爱好者周刊（第 191 期）：一个程序员的财务独立之路 - 阮一峰的网络日志](https://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html)
 - [科技爱好者周刊（第 195 期）：你做过不在乎结果的项目吗？ - 阮一峰的网络日志](https://www.ruanyifeng.com/blog/2022/02/weekly-issue-195.html)
 - [The 3-2-1 Backup Rule – Why Your Data Will Always Survive](https://www.vmwareblog.org/3-2-1-backup-rule-data-will-always-survive/)
