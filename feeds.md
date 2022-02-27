@@ -1,3 +1,4 @@
+- [Understanding WCAG 2.1](https://www.w3.org/WAI/WCAG21/Understanding/)
 - [Fixing Smooth Scrolling & Page Search (updated!)](https://schepp.dev/posts/smooth-scrolling-and-page-search/)
 - [A Modern CSS Reset - Piccalilli](https://piccalil.li/blog/a-modern-css-reset/)
 - [科技爱好者周刊（第 191 期）：一个程序员的财务独立之路 - 阮一峰的网络日志](https://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html)
