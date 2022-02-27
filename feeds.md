@@ -1,3 +1,4 @@
+- [Trailing Slashes on URLs: Contentious or Settled?—zachleat.com](https://www.zachleat.com/web/trailing-slash/)
 - [Designing Better Links For Websites And Emails: A Guideline — Smashing Magazine](https://www.smashingmagazine.com/2021/12/designing-better-links-websites-emails-guideline/)
 - [Understanding WCAG 2.1](https://www.w3.org/WAI/WCAG21/Understanding/)
 - [Fixing Smooth Scrolling & Page Search (updated!)](https://schepp.dev/posts/smooth-scrolling-and-page-search/)
