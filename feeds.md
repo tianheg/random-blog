@@ -1,3 +1,4 @@
+- [Release SQL 入门 · ascoders/weekly](https://github.com/ascoders/weekly/blob/master/SQL/231.SQL%20%E5%85%A5%E9%97%A8.md)
 - [Trailing Slashes on URLs: Contentious or Settled?—zachleat.com](https://www.zachleat.com/web/trailing-slash/)
 - [Designing Better Links For Websites And Emails: A Guideline — Smashing Magazine](https://www.smashingmagazine.com/2021/12/designing-better-links-websites-emails-guideline/)
 - [Understanding WCAG 2.1](https://www.w3.org/WAI/WCAG21/Understanding/)
