@@ -1,3 +1,4 @@
+- [Our response to the war in Ukraine | The GitHub Blog](https://github.blog/2022-03-02-our-response-to-the-war-in-ukraine/)
 - [Release SQL 入门 · ascoders/weekly](https://github.com/ascoders/weekly/blob/master/SQL/231.SQL%20%E5%85%A5%E9%97%A8.md)
 - [Trailing Slashes on URLs: Contentious or Settled?—zachleat.com](https://www.zachleat.com/web/trailing-slash/)
 - [Designing Better Links For Websites And Emails: A Guideline — Smashing Magazine](https://www.smashingmagazine.com/2021/12/designing-better-links-websites-emails-guideline/)
