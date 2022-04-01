@@ -1,10 +1,10 @@
 # Random Blog
 
-This is a page that generate a random article from my [Chinese blog](https://www.yidajiabei.xyz/blog/).
+This is a page that generate a random article from my [Chinese blog](https://www.yidajiabei.xyz/blog/)[**outdated**].
 
 ## How-to
 
-### 1. ~Get JSON file~(removed because blog has been changed)
+### 1. Get JSON file
 
 related files: `gen-json.js`, `package.json`
 
@@ -17,11 +17,6 @@ related files: `script.js`, `feeds.json`
 
 - Use `jQuery` get data from JSON file
 - Use `jQuery` reload page through button
-
-## ToDo
-
-- [ ] get JSON file with pure JS
-- [x] ~GitHub Action bot release v1(jQuery), althrough this state of repo was broken because I change my blog again~
 
 ## Acknowledgement
 
